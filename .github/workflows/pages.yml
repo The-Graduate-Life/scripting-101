@@ -18,6 +18,8 @@ concurrency:
 
 jobs:
   build:
+    # only the public student repository publishes the website
+    if: github.repository == 'The-Graduate-Life/scripting-101'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

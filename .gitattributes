@@ -1,0 +1,7 @@
+# Keep this teaching file byte-for-byte: it deliberately has Windows (CRLF) line endings.
+datasets/messy/ames_2023_windows_export.csv -text
+# Binary formats
+*.gz binary
+*.pdf binary
+*.pptx binary
+*.png binary
