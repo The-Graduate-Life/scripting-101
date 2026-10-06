@@ -1,6 +1,6 @@
 # Publishing the course website (GitHub Pages, free)
 
-Result: a public website at **`https://<your-username>.github.io/scripting-101/`** with one section per module.
+Result: a public website at **`https://The-Graduate-Life.github.io/scripting-101/`** with one section per module.
 It rebuilds by itself every time you push a change.
 
 **What is public:** labs, handbook, cheat sheets, slides (PDF), datasets, example scripts, capstone brief, rubric and template.
