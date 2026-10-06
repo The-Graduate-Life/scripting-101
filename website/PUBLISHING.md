@@ -101,3 +101,20 @@ mkdocs serve -f website/build/mkdocs.yml      # open http://127.0.0.1:8000 in yo
 
 **If a build fails:** open the repository's **Actions** tab, click the red run, and read the last lines of the failing step.
 The most common cause is a broken link in a Markdown file (the build runs in strict mode on purpose).
+
+---
+
+## The private instructor repository
+
+Your full course folder (with solutions, instructor guide and the `.pptx`) is backed up to the **private** repository
+<https://github.com/The-Graduate-Life/scripting-101-instructor>. After editing, save your work there too:
+
+```bash
+cd /mnt/c/Users/fritz/OneDrive/Desktop/fritz/scripting-101
+git add -A
+git commit -m "Describe what you changed"
+git push
+```
+
+Then publish student-facing changes with `python3 website/release.py N --push` as above.
+The website workflow only runs in the public repository, so pushing here never publishes anything.
