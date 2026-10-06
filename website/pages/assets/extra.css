@@ -1,0 +1,6 @@
+/* Scripting 101 site: small tweaks on top of Material for MkDocs */
+:root { --md-accent-fg-color: #e9a23b; }
+.md-typeset h1 { font-weight: 700; }
+.md-typeset table:not([class]) { font-size: .78rem; }
+.md-typeset .grid { grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); }
+.md-typeset .module-facts td:first-child { font-weight: 700; white-space: nowrap; }

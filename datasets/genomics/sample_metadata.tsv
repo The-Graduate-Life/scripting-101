@@ -1,0 +1,9 @@
+sample_id	variety	n_treatment	site	tissue	fastq
+S01	Amber	low_N	AMES	leaf	reads/S01.fastq.gz
+S02	Amber	high_N	AMES	leaf	reads/S02.fastq.gz
+S03	Bolt	low_N	AMES	leaf	reads/S03.fastq.gz
+S04	Bolt	high_N	AMES	leaf	reads/S04.fastq.gz
+S05	Crest	low_N	URBN	leaf	reads/S05.fastq.gz
+S06	Crest	high_N	URBN	leaf	reads/S06.fastq.gz
+S07	Dune	low_N	URBN	leaf	reads/S07.fastq.gz
+S08	Dune	high_N	URBN	leaf	reads/S08.fastq.gz

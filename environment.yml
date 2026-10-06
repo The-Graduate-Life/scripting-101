@@ -1,0 +1,25 @@
+# Scripting 101 course environment
+# Recreate with:   conda env create -f environment.yml
+# Activate with:   conda activate scripting101
+# Update with:     conda env update -f environment.yml --prune
+name: scripting101
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  # --- core scientific stack (Module 4) ---
+  - numpy>=1.26
+  - pandas>=2.2
+  - matplotlib>=3.8
+  - scipy>=1.12
+  # --- interactive work & testing ---
+  - ipython
+  - jupyterlab
+  - pytest
+  # --- command-line helpers used in labs ---
+  - tree
+  - parallel          # GNU parallel (Modules 2 and 7)
+  - pigz              # parallel gzip (Module 7)
+  - seqkit            # FASTA/FASTQ toolkit from bioconda (Modules 3 and 7)
+  - git

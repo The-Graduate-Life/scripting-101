@@ -1,0 +1,4 @@
+# Tools to build the course website (installed by the GitHub Actions workflow)
+mkdocs>=1.6,<2
+mkdocs-material>=9.5,<10
+pypdf>=4

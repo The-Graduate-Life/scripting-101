@@ -1,0 +1,2001 @@
+gene_id	chrom	start	end	strand	description
+Zm00558	chr1	1522098	1526834	-	glutamine synthetase
+Zm01323	chr1	3236697	3243158	+	chlorophyll a/b binding protein
+Zm01282	chr1	4510324	4511568	+	aquaporin
+Zm00954	chr1	6195137	6196413	+	hypothetical protein
+Zm01203	chr1	6317090	6322669	+	chlorophyll a/b binding protein
+Zm01276	chr1	7509117	7510607	+	chlorophyll a/b binding protein
+Zm01350	chr1	8616875	8621394	-	ribosomal protein
+Zm00102	chr1	12715903	12719208	+	heat shock protein
+Zm00889	chr1	13081757	13082658	+	heat shock protein
+Zm00807	chr1	13262493	13265944	-	heat shock protein
+Zm01061	chr1	13590798	13597323	-	hypothetical protein
+Zm01552	chr1	13883239	13890042	-	MYB transcription factor
+Zm00953	chr1	14623144	14627164	+	cell wall invertase
+Zm00977	chr1	14712463	14715444	-	nitrate transporter
+Zm01132	chr1	14938044	14945520	+	aquaporin
+Zm00358	chr1	15549885	15558633	+	hypothetical protein
+Zm01487	chr1	16409327	16416683	-	glutamine synthetase
+Zm01162	chr1	17570040	17578847	+	ribosomal protein
+Zm00994	chr1	18248133	18253442	-	cell wall invertase
+Zm01000	chr1	21097096	21099473	-	hypothetical protein
+Zm00011	chr1	24078638	24082809	+	cell wall invertase
+Zm01550	chr1	24246779	24253359	+	chlorophyll a/b binding protein
+Zm01754	chr1	28595541	28596977	+	chlorophyll a/b binding protein
+Zm01840	chr1	30316634	30325314	+	chlorophyll a/b binding protein
+Zm00604	chr1	30569088	30576860	-	ribosomal protein
+Zm01758	chr1	30689395	30697722	-	chlorophyll a/b binding protein
+Zm00897	chr1	32506196	32509587	+	hypothetical protein
+Zm00298	chr1	35004549	35010122	-	chlorophyll a/b binding protein
+Zm00254	chr1	35030395	35037408	+	hypothetical protein
+Zm01250	chr1	35446779	35451451	-	hypothetical protein
+Zm01153	chr1	35792509	35800881	-	nitrate transporter
+Zm00621	chr1	37954670	37955777	-	ribosomal protein
+Zm01368	chr1	38670756	38677620	+	photosystem II subunit
+Zm01134	chr1	39089589	39094013	+	MYB transcription factor
+Zm01688	chr1	40126406	40131723	-	heat shock protein
+Zm01975	chr1	40182500	40187140	-	MYB transcription factor
+Zm00171	chr1	40500893	40509120	+	ribosomal protein
+Zm00925	chr1	41521226	41525001	-	heat shock protein
+Zm01857	chr1	46445340	46448617	+	hypothetical protein
+Zm01125	chr1	47058599	47062757	+	hypothetical protein
+Zm00078	chr1	47175135	47183909	-	chlorophyll a/b binding protein
+Zm00498	chr1	49471744	49480491	+	photosystem II subunit
+Zm00391	chr1	49935682	49937359	+	cell wall invertase
+Zm00825	chr1	51289238	51295787	+	photosystem II subunit
+Zm00764	chr1	51758405	51763536	+	hypothetical protein
+Zm01126	chr1	52690651	52694073	-	ribosomal protein
+Zm00942	chr1	58010443	58017167	-	ribosomal protein
+Zm01960	chr1	58017354	58019457	-	heat shock protein
+Zm01942	chr1	58213453	58220025	+	ribosomal protein
+Zm01480	chr1	58776382	58784157	-	cell wall invertase
+Zm00013	chr1	65781616	65782979	+	aquaporin
+Zm00725	chr1	67117362	67125413	+	photosystem II subunit
+Zm01196	chr1	68715986	68717303	-	aquaporin
+Zm00748	chr1	69788866	69792322	-	ribosomal protein
+Zm00935	chr1	70535655	70541077	-	aquaporin
+Zm00827	chr1	70771142	70775637	+	heat shock protein
+Zm00566	chr1	70793781	70795853	-	aquaporin
+Zm01248	chr1	70934589	70939165	+	hypothetical protein
+Zm00056	chr1	71596310	71605140	-	ribosomal protein
+Zm00561	chr1	71749126	71751964	-	nitrate transporter
+Zm01831	chr1	72100097	72102309	-	photosystem II subunit
+Zm00339	chr1	72512483	72515688	+	cell wall invertase
+Zm01171	chr1	73293938	73302502	-	ribosomal protein
+Zm01037	chr1	74204825	74208328	-	chlorophyll a/b binding protein
+Zm01580	chr1	75143012	75145005	+	photosystem II subunit
+Zm00740	chr1	75784820	75791946	-	hypothetical protein
+Zm01392	chr1	76150617	76158332	-	aquaporin
+Zm01886	chr1	76289266	76294780	-	glutamine synthetase
+Zm01036	chr1	76835019	76842830	+	hypothetical protein
+Zm01679	chr1	79507448	79513301	-	ribosomal protein
+Zm01302	chr1	79722072	79727754	+	MYB transcription factor
+Zm00828	chr1	79785771	79787496	+	hypothetical protein
+Zm01875	chr1	80266093	80273582	+	photosystem II subunit
+Zm00918	chr1	80923830	80930054	+	hypothetical protein
+Zm00995	chr1	81541013	81545799	+	hypothetical protein
+Zm01157	chr1	83630666	83631501	-	hypothetical protein
+Zm01852	chr1	83761646	83763407	-	cell wall invertase
+Zm00525	chr1	85354394	85356005	-	nitrate transporter
+Zm00043	chr1	85683587	85691699	+	hypothetical protein
+Zm00082	chr1	86111184	86114039	-	cell wall invertase
+Zm00795	chr1	87391095	87395376	+	ribosomal protein
+Zm00374	chr1	87638229	87641580	-	MYB transcription factor
+Zm01145	chr1	87922694	87928912	+	hypothetical protein
+Zm01288	chr1	89544165	89550051	+	hypothetical protein
+Zm00151	chr1	89746780	89748187	-	photosystem II subunit
+Zm00726	chr1	90672450	90677249	-	nitrate transporter
+Zm01632	chr1	92377745	92381239	+	chlorophyll a/b binding protein
+Zm00577	chr1	94172025	94180737	-	photosystem II subunit
+Zm01734	chr1	95102769	95106885	-	hypothetical protein
+Zm01714	chr1	95589841	95595657	-	heat shock protein
+Zm00528	chr1	99624157	99630222	-	cell wall invertase
+Zm00195	chr1	100468596	100471621	-	photosystem II subunit
+Zm00355	chr1	101235630	101238019	-	hypothetical protein
+Zm01812	chr1	103936656	103939077	-	hypothetical protein
+Zm01559	chr1	105508315	105514821	+	hypothetical protein
+Zm00758	chr1	106428145	106436663	+	hypothetical protein
+Zm00538	chr1	106519676	106525919	+	hypothetical protein
+Zm00631	chr1	106569249	106577466	-	hypothetical protein
+Zm01646	chr1	106759800	106762493	-	nitrate transporter
+Zm01198	chr1	107274572	107279797	+	MYB transcription factor
+Zm01326	chr1	108031141	108038870	-	nitrate transporter
+Zm00857	chr1	109569729	109572949	+	hypothetical protein
+Zm00993	chr1	111183982	111186523	+	chlorophyll a/b binding protein
+Zm00084	chr1	111305407	111306850	+	ribosomal protein
+Zm00806	chr1	111350163	111351193	-	hypothetical protein
+Zm01833	chr1	111994608	112001005	+	hypothetical protein
+Zm01802	chr1	112896262	112898577	+	hypothetical protein
+Zm00001	chr1	113149237	113156068	-	hypothetical protein
+Zm01249	chr1	113643575	113646804	+	aquaporin
+Zm00341	chr1	114505616	114507041	-	hypothetical protein
+Zm01218	chr1	118058112	118059872	+	heat shock protein
+Zm00334	chr1	118220681	118227316	-	glutamine synthetase
+Zm00071	chr1	118386013	118389528	-	hypothetical protein
+Zm01606	chr1	118682531	118689961	+	chlorophyll a/b binding protein
+Zm00824	chr1	124496955	124502390	+	ribosomal protein
+Zm00239	chr1	127135218	127139189	+	hypothetical protein
+Zm00607	chr1	129753253	129754683	+	ribosomal protein
+Zm01052	chr1	131849130	131856475	+	ribosomal protein
+Zm01107	chr1	133261880	133270684	-	heat shock protein
+Zm00107	chr1	135043686	135045704	-	ribosomal protein
+Zm01828	chr1	135153259	135156038	+	aquaporin
+Zm01994	chr1	135576378	135577390	-	photosystem II subunit
+Zm01784	chr1	137043313	137049216	-	hypothetical protein
+Zm00015	chr1	138820102	138821215	-	hypothetical protein
+Zm00817	chr1	139721110	139723379	-	hypothetical protein
+Zm01824	chr1	140185561	140189748	-	hypothetical protein
+Zm00271	chr1	141621449	141625059	-	hypothetical protein
+Zm01096	chr1	142322281	142323365	+	heat shock protein
+Zm00093	chr1	142750804	142759511	+	aquaporin
+Zm01361	chr1	143296958	143303299	+	ribosomal protein
+Zm01478	chr1	145018656	145024705	-	chlorophyll a/b binding protein
+Zm00123	chr1	145147238	145155560	+	heat shock protein
+Zm00680	chr1	145412993	145415430	-	cell wall invertase
+Zm00666	chr1	147984002	147986732	+	chlorophyll a/b binding protein
+Zm01341	chr1	149627374	149635263	+	cell wall invertase
+Zm01614	chr1	150559547	150563333	-	chlorophyll a/b binding protein
+Zm00378	chr1	153865407	153867879	-	photosystem II subunit
+Zm00763	chr1	154201758	154204955	-	hypothetical protein
+Zm00100	chr1	154324772	154332282	-	hypothetical protein
+Zm00449	chr1	158936185	158939401	-	hypothetical protein
+Zm00423	chr1	159231301	159232651	+	aquaporin
+Zm01454	chr1	160477004	160480926	+	ribosomal protein
+Zm00146	chr1	161282023	161284243	-	ribosomal protein
+Zm00236	chr1	162431807	162433611	+	ribosomal protein
+Zm01094	chr1	162982351	162984769	-	ribosomal protein
+Zm01331	chr1	163463690	163464617	-	MYB transcription factor
+Zm01283	chr1	164005194	164007870	-	hypothetical protein
+Zm01215	chr1	166458780	166464818	+	hypothetical protein
+Zm00722	chr1	170491951	170493668	-	ribosomal protein
+Zm00452	chr1	171796034	171800976	-	ribosomal protein
+Zm00133	chr1	172528333	172531403	+	hypothetical protein
+Zm00025	chr1	172547136	172549901	-	photosystem II subunit
+Zm01716	chr1	172708028	172714646	+	ribosomal protein
+Zm01789	chr1	174124225	174133189	+	ribosomal protein
+Zm01989	chr1	174379862	174386908	-	heat shock protein
+Zm00177	chr1	174462676	174470699	+	ribosomal protein
+Zm01867	chr1	174529289	174534956	+	hypothetical protein
+Zm01939	chr1	174564176	174567630	-	heat shock protein
+Zm00983	chr1	174948077	174950971	+	ribosomal protein
+Zm02000	chr1	175620812	175624837	+	ribosomal protein
+Zm01404	chr1	177861287	177867017	-	glutamine synthetase
+Zm01115	chr1	179490936	179499369	-	hypothetical protein
+Zm01576	chr1	179769521	179778282	-	MYB transcription factor
+Zm01573	chr1	179870176	179877124	+	heat shock protein
+Zm01850	chr1	180773478	180778635	+	MYB transcription factor
+Zm01896	chr1	182614643	182623217	+	aquaporin
+Zm01089	chr1	185126325	185129570	+	ribosomal protein
+Zm00948	chr1	185495575	185500210	+	heat shock protein
+Zm00589	chr1	187808021	187811176	-	chlorophyll a/b binding protein
+Zm00624	chr1	187998744	188004044	-	chlorophyll a/b binding protein
+Zm01264	chr1	189116993	189122994	+	nitrate transporter
+Zm00154	chr1	189841424	189846291	-	MYB transcription factor
+Zm01422	chr1	192591830	192598263	-	ribosomal protein
+Zm01388	chr1	193136911	193139738	-	heat shock protein
+Zm00877	chr1	193795302	193796769	-	MYB transcription factor
+Zm01905	chr1	195240072	195246251	-	heat shock protein
+Zm00061	chr1	196568324	196571673	-	ribosomal protein
+Zm00951	chr1	197307487	197312926	-	hypothetical protein
+Zm00157	chr1	197724426	197729304	-	heat shock protein
+Zm01775	chr1	198692100	198696983	-	MYB transcription factor
+Zm00260	chr1	200338404	200344590	-	hypothetical protein
+Zm01051	chr1	200871003	200875578	-	hypothetical protein
+Zm00971	chr1	203983171	203989657	+	chlorophyll a/b binding protein
+Zm00966	chr1	207252989	207255884	-	ribosomal protein
+Zm01211	chr1	207305872	207307789	+	hypothetical protein
+Zm01681	chr1	207768129	207777114	+	hypothetical protein
+Zm01268	chr1	208355960	208361907	-	hypothetical protein
+Zm01111	chr1	212762866	212768339	-	hypothetical protein
+Zm01710	chr1	213763216	213769335	-	ribosomal protein
+Zm00026	chr1	214036363	214038547	+	hypothetical protein
+Zm01371	chr1	214711120	214718726	+	hypothetical protein
+Zm00557	chr1	216938628	216944726	-	photosystem II subunit
+Zm00513	chr1	217103868	217112327	-	MYB transcription factor
+Zm01253	chr1	217917833	217926592	+	hypothetical protein
+Zm01436	chr1	218408617	218411905	+	hypothetical protein
+Zm00896	chr1	219447812	219452085	+	heat shock protein
+Zm00476	chr1	219837947	219845454	+	MYB transcription factor
+Zm00980	chr1	222784846	222793114	+	hypothetical protein
+Zm01471	chr1	223677795	223680289	-	MYB transcription factor
+Zm01968	chr1	225496882	225499162	+	hypothetical protein
+Zm01170	chr1	225602388	225607762	+	chlorophyll a/b binding protein
+Zm00388	chr1	227869809	227874863	+	chlorophyll a/b binding protein
+Zm01128	chr1	228810656	228816323	+	photosystem II subunit
+Zm00496	chr1	229028915	229032247	-	hypothetical protein
+Zm00232	chr1	233383542	233389258	+	MYB transcription factor
+Zm00750	chr1	233727053	233734850	+	hypothetical protein
+Zm01277	chr1	234328561	234336731	-	nitrate transporter
+Zm01628	chr1	236245048	236250070	-	hypothetical protein
+Zm01210	chr1	237628047	237630340	+	hypothetical protein
+Zm00285	chr1	238118493	238120983	-	aquaporin
+Zm01756	chr1	239169862	239174858	+	heat shock protein
+Zm01509	chr1	239231497	239240162	+	chlorophyll a/b binding protein
+Zm00218	chr1	241722472	241727015	+	ribosomal protein
+Zm01817	chr1	243485044	243487580	-	cell wall invertase
+Zm00815	chr1	243502087	243509760	-	hypothetical protein
+Zm00653	chr1	243773380	243779988	+	aquaporin
+Zm01143	chr1	244851552	244859870	-	MYB transcription factor
+Zm00396	chr1	245205024	245213380	-	glutamine synthetase
+Zm01429	chr1	246693033	246696020	-	hypothetical protein
+Zm00024	chr1	246960883	246967602	+	cell wall invertase
+Zm00523	chr1	248720298	248726559	-	cell wall invertase
+Zm01951	chr1	249120164	249125218	-	ribosomal protein
+Zm00484	chr1	251169484	251177865	+	MYB transcription factor
+Zm01643	chr1	251932736	251934704	-	hypothetical protein
+Zm00605	chr1	252349063	252349910	+	ribosomal protein
+Zm01406	chr1	254050041	254054460	+	hypothetical protein
+Zm00639	chr1	255079616	255083072	+	hypothetical protein
+Zm01569	chr1	256146121	256150355	-	hypothetical protein
+Zm01843	chr1	259862903	259867470	+	chlorophyll a/b binding protein
+Zm00170	chr1	260332799	260338986	+	chlorophyll a/b binding protein
+Zm01860	chr1	260366780	260374352	-	aquaporin
+Zm01002	chr1	261667938	261676894	-	hypothetical protein
+Zm01101	chr1	261760002	261762041	+	nitrate transporter
+Zm00780	chr1	262783883	262786224	+	chlorophyll a/b binding protein
+Zm00581	chr1	262801239	262808501	+	ribosomal protein
+Zm00182	chr1	263094240	263101638	-	MYB transcription factor
+Zm00150	chr1	264017706	264020693	-	nitrate transporter
+Zm00720	chr1	264068532	264069367	-	heat shock protein
+Zm00833	chr1	265881391	265883664	+	photosystem II subunit
+Zm01571	chr1	267106907	267114630	-	hypothetical protein
+Zm01926	chr1	270136483	270142802	-	aquaporin
+Zm00227	chr1	271350997	271357601	+	asparagine synthetase
+Zm00035	chr1	272292541	272298030	+	photosystem II subunit
+Zm00973	chr1	274115226	274116069	+	chlorophyll a/b binding protein
+Zm01228	chr1	274557123	274562593	-	hypothetical protein
+Zm01607	chr1	275819336	275827837	-	chlorophyll a/b binding protein
+Zm00985	chr1	276310154	276314619	-	hypothetical protein
+Zm00867	chr1	276964545	276972102	+	chlorophyll a/b binding protein
+Zm00482	chr1	277594859	277597785	-	ribosomal protein
+Zm01627	chr1	277990857	277992159	+	ribosomal protein
+Zm01651	chr1	278116181	278117089	-	ribosomal protein
+Zm00095	chr1	279780482	279788219	+	ribosomal protein
+Zm01999	chr1	280839167	280846200	+	hypothetical protein
+Zm00620	chr1	280998408	281002649	-	chlorophyll a/b binding protein
+Zm00949	chr1	281074217	281077057	+	hypothetical protein
+Zm00377	chr1	282605991	282614457	+	ribosomal protein
+Zm01492	chr1	283674950	283679397	-	ribosomal protein
+Zm01545	chr1	285272540	285273516	+	heat shock protein
+Zm01707	chr1	290476838	290481809	+	nitrate transporter
+Zm01189	chr1	290991793	290993131	-	glutamine synthetase
+Zm01692	chr1	291119314	291127754	-	photosystem II subunit
+Zm01155	chr1	292003862	292007856	+	hypothetical protein
+Zm00704	chr1	293268421	293273609	-	ribosomal protein
+Zm00488	chr1	294611431	294612798	-	MYB transcription factor
+Zm00387	chr1	294925550	294927144	+	hypothetical protein
+Zm01876	chr1	295482055	295486940	+	ribosomal protein
+Zm01653	chr1	298350250	298358949	+	ribosomal protein
+Zm00238	chr1	299347593	299354276	+	cell wall invertase
+Zm00007	chr1	300184085	300189640	+	nitrate transporter
+Zm01948	chr1	300494659	300500747	-	hypothetical protein
+Zm01801	chr1	301493871	301500200	-	nitrate transporter
+Zm01069	chr1	302190740	302198564	+	hypothetical protein
+Zm00690	chr1	302462699	302471459	+	hypothetical protein
+Zm01929	chr1	302743588	302748897	+	hypothetical protein
+Zm01567	chr1	303063680	303067326	+	chlorophyll a/b binding protein
+Zm01084	chr1	304431486	304438307	-	photosystem II subunit
+Zm01686	chr1	304657520	304661347	+	chlorophyll a/b binding protein
+Zm00793	chr1	306177993	306180935	+	MYB transcription factor
+Zm01909	chr2	824224	831637	+	hypothetical protein
+Zm01527	chr2	3387154	3395992	-	heat shock protein
+Zm01319	chr2	6127947	6130445	+	ribosomal protein
+Zm01674	chr2	8064952	8070778	-	ribosomal protein
+Zm01917	chr2	9117446	9121322	-	hypothetical protein
+Zm00117	chr2	9629194	9634346	+	ribosomal protein
+Zm01360	chr2	10156257	10164174	-	hypothetical protein
+Zm00902	chr2	10378316	10385606	+	photosystem II subunit
+Zm01310	chr2	11473782	11475229	-	chlorophyll a/b binding protein
+Zm00381	chr2	11628012	11629920	-	MYB transcription factor
+Zm00592	chr2	11779738	11786551	+	hypothetical protein
+Zm01025	chr2	12445301	12449982	+	aquaporin
+Zm01166	chr2	12707943	12715940	-	chlorophyll a/b binding protein
+Zm01252	chr2	14940469	14944537	-	MYB transcription factor
+Zm01476	chr2	16646364	16650462	-	hypothetical protein
+Zm01244	chr2	17772591	17779311	+	hypothetical protein
+Zm00832	chr2	19309075	19310925	+	ribosomal protein
+Zm01296	chr2	19377449	19381218	-	chlorophyll a/b binding protein
+Zm00582	chr2	20283066	20291782	-	ribosomal protein
+Zm00070	chr2	20925023	20932212	+	ribosomal protein
+Zm01520	chr2	21197414	21199869	+	hypothetical protein
+Zm00600	chr2	22207009	22208756	-	hypothetical protein
+Zm00798	chr2	22283180	22290166	+	asparagine synthetase
+Zm01488	chr2	26841193	26845465	+	MYB transcription factor
+Zm01700	chr2	27428677	27434893	+	hypothetical protein
+Zm00842	chr2	27576404	27578698	+	aquaporin
+Zm01915	chr2	31882099	31885541	-	chlorophyll a/b binding protein
+Zm00245	chr2	32154094	32159723	-	hypothetical protein
+Zm00724	chr2	32426001	32432920	-	hypothetical protein
+Zm01809	chr2	32676432	32678111	+	hypothetical protein
+Zm00663	chr2	35207243	35214570	+	hypothetical protein
+Zm00027	chr2	37699707	37707265	+	heat shock protein
+Zm01703	chr2	40018595	40024507	+	cell wall invertase
+Zm01751	chr2	40032639	40037553	-	hypothetical protein
+Zm00257	chr2	42760228	42762947	+	hypothetical protein
+Zm00489	chr2	42760660	42763099	+	hypothetical protein
+Zm01594	chr2	42906483	42914489	+	hypothetical protein
+Zm01844	chr2	42919123	42922769	+	ribosomal protein
+Zm01297	chr2	43537135	43540531	-	hypothetical protein
+Zm01468	chr2	43601358	43602549	-	ribosomal protein
+Zm01603	chr2	43724545	43733133	-	photosystem II subunit
+Zm00164	chr2	44193101	44197277	+	hypothetical protein
+Zm00020	chr2	45882156	45890910	+	ribosomal protein
+Zm01920	chr2	46201398	46208110	+	aquaporin
+Zm00865	chr2	47231163	47232258	+	aquaporin
+Zm00210	chr2	50459820	50466117	-	chlorophyll a/b binding protein
+Zm01822	chr2	50709272	50713911	+	heat shock protein
+Zm01649	chr2	51038294	51046458	-	hypothetical protein
+Zm00418	chr2	51704294	51707610	+	hypothetical protein
+Zm01098	chr2	52392106	52395430	+	ribosomal protein
+Zm01366	chr2	52715227	52720378	+	MYB transcription factor
+Zm00346	chr2	53151498	53154352	-	hypothetical protein
+Zm00036	chr2	53775357	53781756	+	MYB transcription factor
+Zm00614	chr2	56113419	56115368	+	heat shock protein
+Zm01278	chr2	56897779	56903268	+	hypothetical protein
+Zm00574	chr2	57129420	57133905	+	MYB transcription factor
+Zm00471	chr2	57182659	57189916	-	aquaporin
+Zm01407	chr2	58451478	58459151	-	heat shock protein
+Zm01746	chr2	58864477	58867646	-	aquaporin
+Zm01517	chr2	59054336	59059753	-	ribosomal protein
+Zm00348	chr2	63324761	63329180	+	chlorophyll a/b binding protein
+Zm01119	chr2	65086284	65093137	-	hypothetical protein
+Zm01866	chr2	65523418	65527063	-	hypothetical protein
+Zm01705	chr2	66197137	66200476	+	nitrate transporter
+Zm01066	chr2	66749414	66755703	+	hypothetical protein
+Zm00412	chr2	66968989	66974968	+	MYB transcription factor
+Zm00385	chr2	67202905	67211614	+	hypothetical protein
+Zm01568	chr2	67809325	67815211	+	hypothetical protein
+Zm00926	chr2	69882520	69887700	+	chlorophyll a/b binding protein
+Zm01872	chr2	70933629	70936747	-	chlorophyll a/b binding protein
+Zm01442	chr2	73078215	73081562	+	MYB transcription factor
+Zm00316	chr2	73731603	73737685	-	heat shock protein
+Zm00784	chr2	73751388	73760059	+	chlorophyll a/b binding protein
+Zm01890	chr2	75011892	75019901	-	aquaporin
+Zm01435	chr2	76321021	76325305	-	heat shock protein
+Zm01541	chr2	76837935	76842218	+	nitrate transporter
+Zm01474	chr2	77023362	77028477	-	MYB transcription factor
+Zm00841	chr2	77435046	77443126	-	hypothetical protein
+Zm01504	chr2	78549704	78552040	+	chlorophyll a/b binding protein
+Zm01446	chr2	78768334	78773539	+	photosystem II subunit
+Zm00169	chr2	80292655	80295583	-	hypothetical protein
+Zm01971	chr2	80552916	80556407	+	ribosomal protein
+Zm00297	chr2	81327943	81332332	+	glutamine synthetase
+Zm01079	chr2	81521337	81529848	+	cell wall invertase
+Zm00196	chr2	83300916	83304717	-	MYB transcription factor
+Zm00618	chr2	84317771	84326558	+	chlorophyll a/b binding protein
+Zm00843	chr2	85699046	85702655	-	hypothetical protein
+Zm01455	chr2	87982225	87988004	-	chlorophyll a/b binding protein
+Zm01397	chr2	88347544	88351078	+	hypothetical protein
+Zm00228	chr2	89874363	89877571	+	heat shock protein
+Zm01123	chr2	91119752	91127916	-	hypothetical protein
+Zm00939	chr2	91139979	91147218	+	aquaporin
+Zm00086	chr2	92023235	92032019	+	cell wall invertase
+Zm01652	chr2	92600837	92606203	+	aquaporin
+Zm00723	chr2	94630042	94637959	+	MYB transcription factor
+Zm00820	chr2	94920445	94921635	-	aquaporin
+Zm00814	chr2	95909688	95914528	+	hypothetical protein
+Zm00962	chr2	96060789	96061625	+	nitrate transporter
+Zm01992	chr2	96210153	96213632	+	chlorophyll a/b binding protein
+Zm00386	chr2	96934818	96942695	-	hypothetical protein
+Zm00921	chr2	97975847	97981158	-	photosystem II subunit
+Zm00751	chr2	98109362	98115213	+	heat shock protein
+Zm01439	chr2	98169345	98176481	+	hypothetical protein
+Zm01963	chr2	98496950	98501020	+	hypothetical protein
+Zm00174	chr2	101379430	101383278	+	ribosomal protein
+Zm01730	chr2	101571651	101573460	+	heat shock protein
+Zm00565	chr2	102033572	102039256	+	MYB transcription factor
+Zm00259	chr2	103124604	103130383	-	photosystem II subunit
+Zm00933	chr2	106260032	106268128	+	chlorophyll a/b binding protein
+Zm01004	chr2	106315860	106324563	+	MYB transcription factor
+Zm00434	chr2	108711784	108719274	-	MYB transcription factor
+Zm00955	chr2	109393608	109399319	-	photosystem II subunit
+Zm01846	chr2	111573078	111580071	+	hypothetical protein
+Zm01586	chr2	113614499	113621752	-	ribosomal protein
+Zm00439	chr2	113757169	113765925	+	asparagine synthetase
+Zm01676	chr2	113793812	113795604	-	MYB transcription factor
+Zm01095	chr2	114899162	114905267	+	hypothetical protein
+Zm00900	chr2	115329373	115335595	-	hypothetical protein
+Zm01953	chr2	116370526	116373463	-	chlorophyll a/b binding protein
+Zm01797	chr2	117871763	117877708	+	photosystem II subunit
+Zm01295	chr2	118798558	118803374	-	hypothetical protein
+Zm01018	chr2	118902689	118909144	-	MYB transcription factor
+Zm00888	chr2	123130305	123139153	+	aquaporin
+Zm00573	chr2	125840325	125848083	-	asparagine synthetase
+Zm01340	chr2	126540213	126541606	+	heat shock protein
+Zm00021	chr2	129936001	129941366	+	hypothetical protein
+Zm01986	chr2	130845541	130853661	+	cell wall invertase
+Zm01416	chr2	131024750	131029131	-	photosystem II subunit
+Zm01006	chr2	132548073	132550034	-	cell wall invertase
+Zm01225	chr2	133568437	133573284	-	hypothetical protein
+Zm00255	chr2	135270747	135278165	+	MYB transcription factor
+Zm01275	chr2	136889236	136893228	-	chlorophyll a/b binding protein
+Zm01955	chr2	136989417	136997597	-	hypothetical protein
+Zm01773	chr2	137688745	137695908	-	hypothetical protein
+Zm00997	chr2	138929959	138930878	+	hypothetical protein
+Zm01016	chr2	139171055	139179512	-	hypothetical protein
+Zm00697	chr2	141877124	141884511	+	cell wall invertase
+Zm00598	chr2	142476632	142481961	-	hypothetical protein
+Zm01142	chr2	143996638	143999455	+	MYB transcription factor
+Zm01671	chr2	144066094	144072673	-	nitrate transporter
+Zm01957	chr2	144089817	144095852	+	hypothetical protein
+Zm01515	chr2	146603163	146606133	+	hypothetical protein
+Zm01924	chr2	146620185	146623142	-	hypothetical protein
+Zm00785	chr2	147201782	147206927	+	ribosomal protein
+Zm01902	chr2	148799562	148801562	-	hypothetical protein
+Zm00664	chr2	149068341	149072417	-	MYB transcription factor
+Zm00314	chr2	149516064	149518349	+	hypothetical protein
+Zm00491	chr2	150781873	150787719	+	asparagine synthetase
+Zm01287	chr2	151177841	151182645	+	hypothetical protein
+Zm00635	chr2	151299131	151302963	-	MYB transcription factor
+Zm00065	chr2	152050174	152056038	+	glutamine synthetase
+Zm01425	chr2	152407240	152411994	-	chlorophyll a/b binding protein
+Zm01882	chr2	152941960	152946638	+	hypothetical protein
+Zm01417	chr2	153074547	153079484	+	aquaporin
+Zm00474	chr2	153304805	153309053	-	chlorophyll a/b binding protein
+Zm01498	chr2	154293490	154297488	-	ribosomal protein
+Zm00173	chr2	154608697	154615665	+	hypothetical protein
+Zm00508	chr2	154868345	154875387	+	heat shock protein
+Zm01156	chr2	155541233	155544993	+	photosystem II subunit
+Zm01423	chr2	156505625	156507481	-	aquaporin
+Zm00580	chr2	157609720	157615881	+	hypothetical protein
+Zm00351	chr2	157624886	157632650	-	hypothetical protein
+Zm01072	chr2	158601595	158605984	+	hypothetical protein
+Zm00305	chr2	160516352	160518200	-	chlorophyll a/b binding protein
+Zm01259	chr2	160785686	160788611	-	ribosomal protein
+Zm00453	chr2	161314250	161318354	-	aquaporin
+Zm00288	chr2	163810735	163817859	-	MYB transcription factor
+Zm00657	chr2	166616468	166623561	-	heat shock protein
+Zm01659	chr2	168298655	168301600	+	hypothetical protein
+Zm01127	chr2	169193392	169199852	+	hypothetical protein
+Zm00273	chr2	169358550	169364389	-	hypothetical protein
+Zm01825	chr2	169529884	169533882	+	ribosomal protein
+Zm00776	chr2	169895835	169902811	+	hypothetical protein
+Zm01289	chr2	170653651	170657175	+	hypothetical protein
+Zm00356	chr2	170939987	170941273	-	hypothetical protein
+Zm01613	chr2	172921322	172922176	+	MYB transcription factor
+Zm00943	chr2	174077219	174086045	+	ribosomal protein
+Zm01246	chr2	174402088	174404945	+	chlorophyll a/b binding protein
+Zm01359	chr2	175244552	175249223	+	chlorophyll a/b binding protein
+Zm00326	chr2	175397728	175400290	+	ribosomal protein
+Zm01827	chr2	176135629	176137618	+	glutamine synthetase
+Zm01188	chr2	176258817	176261559	+	glutamine synthetase
+Zm00662	chr2	177386821	177388387	-	heat shock protein
+Zm00313	chr2	178393310	178397676	-	hypothetical protein
+Zm00384	chr2	180423371	180425185	-	heat shock protein
+Zm01847	chr2	180603272	180605732	+	heat shock protein
+Zm01485	chr2	181065234	181070899	-	MYB transcription factor
+Zm01675	chr2	181084629	181090883	-	MYB transcription factor
+Zm00590	chr2	181114753	181117315	+	heat shock protein
+Zm00370	chr2	186423326	186424144	+	aquaporin
+Zm00320	chr2	188477836	188479761	+	heat shock protein
+Zm00481	chr2	188577741	188583520	+	hypothetical protein
+Zm01874	chr2	188681015	188689770	+	cell wall invertase
+Zm00172	chr2	189281331	189285659	-	chlorophyll a/b binding protein
+Zm00872	chr2	190441846	190443934	+	heat shock protein
+Zm00756	chr2	191375952	191380256	-	heat shock protein
+Zm00648	chr2	192998850	192999773	+	MYB transcription factor
+Zm00749	chr2	194328731	194335778	+	hypothetical protein
+Zm00016	chr2	195000569	195007092	+	photosystem II subunit
+Zm01019	chr2	199632329	199635421	-	hypothetical protein
+Zm01678	chr2	200990499	200995700	+	nitrate transporter
+Zm01500	chr2	204716862	204718364	-	photosystem II subunit
+Zm01871	chr2	205955382	205961514	+	hypothetical protein
+Zm00552	chr2	207195676	207204182	-	hypothetical protein
+Zm01949	chr2	207917664	207923169	-	hypothetical protein
+Zm00322	chr2	208259964	208266047	-	heat shock protein
+Zm01459	chr2	209972819	209980307	+	photosystem II subunit
+Zm00137	chr2	210771202	210776185	+	chlorophyll a/b binding protein
+Zm00509	chr2	211605838	211611293	+	photosystem II subunit
+Zm01859	chr2	213925572	213931571	+	asparagine synthetase
+Zm01611	chr2	214379916	214383316	+	glutamine synthetase
+Zm01456	chr2	214687298	214691133	-	hypothetical protein
+Zm01637	chr2	215327920	215329719	-	ribosomal protein
+Zm01144	chr2	217782225	217785490	-	hypothetical protein
+Zm00984	chr2	218162545	218168087	+	heat shock protein
+Zm00761	chr2	218428627	218432695	+	aquaporin
+Zm00912	chr2	219918491	219920812	-	ribosomal protein
+Zm01065	chr2	220955160	220962234	-	hypothetical protein
+Zm00765	chr2	221887552	221889008	+	ribosomal protein
+Zm01842	chr2	221904131	221910097	+	chlorophyll a/b binding protein
+Zm00535	chr2	222248786	222256355	-	hypothetical protein
+Zm01177	chr2	222529520	222535555	-	MYB transcription factor
+Zm00296	chr2	222871265	222876927	+	cell wall invertase
+Zm00898	chr2	223175443	223179914	-	hypothetical protein
+Zm01160	chr2	223713862	223715456	-	hypothetical protein
+Zm01074	chr2	225243445	225245387	+	hypothetical protein
+Zm00550	chr2	225387206	225392963	+	ribosomal protein
+Zm01469	chr2	226177578	226180006	-	hypothetical protein
+Zm01122	chr2	228766985	228769899	+	photosystem II subunit
+Zm01877	chr2	228889780	228898033	-	glutamine synthetase
+Zm00556	chr2	229186137	229191848	-	MYB transcription factor
+Zm01460	chr2	230258606	230266347	+	hypothetical protein
+Zm01599	chr2	231673664	231678865	-	hypothetical protein
+Zm00779	chr2	233229699	233234280	+	ribosomal protein
+Zm00432	chr2	234181389	234185065	+	cell wall invertase
+Zm01667	chr2	234313668	234318138	+	MYB transcription factor
+Zm00691	chr2	235239973	235244757	+	ribosomal protein
+Zm01482	chr2	235709642	235715282	-	photosystem II subunit
+Zm00801	chr2	236667990	236673081	+	photosystem II subunit
+Zm01324	chr2	237741775	237745346	+	heat shock protein
+Zm00762	chr2	239448574	239457068	-	heat shock protein
+Zm01009	chr2	242123025	242130688	+	MYB transcription factor
+Zm00246	chr3	2122039	2130534	+	hypothetical protein
+Zm01103	chr3	3003339	3005288	+	cell wall invertase
+Zm01947	chr3	3172413	3175495	-	glutamine synthetase
+Zm01806	chr3	5698456	5707285	-	hypothetical protein
+Zm00311	chr3	5718255	5723028	-	MYB transcription factor
+Zm01272	chr3	7470214	7477611	-	hypothetical protein
+Zm01760	chr3	9128979	9131064	-	cell wall invertase
+Zm00126	chr3	9619727	9622216	-	hypothetical protein
+Zm00837	chr3	9885489	9890469	+	ribosomal protein
+Zm01085	chr3	10100388	10104661	-	nitrate transporter
+Zm01073	chr3	11177264	11183828	-	ribosomal protein
+Zm00882	chr3	11316380	11320600	-	hypothetical protein
+Zm00269	chr3	12658068	12665442	+	ribosomal protein
+Zm01048	chr3	13001312	13004244	+	chlorophyll a/b binding protein
+Zm01538	chr3	13998021	14003420	+	ribosomal protein
+Zm01759	chr3	14523977	14531054	+	aquaporin
+Zm01596	chr3	14658556	14664292	-	chlorophyll a/b binding protein
+Zm01344	chr3	15577225	15584016	+	cell wall invertase
+Zm01067	chr3	17721183	17722408	-	hypothetical protein
+Zm00281	chr3	17769887	17778457	-	cell wall invertase
+Zm00106	chr3	18696796	18705527	-	aquaporin
+Zm01786	chr3	20913846	20920723	+	hypothetical protein
+Zm01240	chr3	21015770	21017611	-	hypothetical protein
+Zm01981	chr3	22001325	22002946	+	heat shock protein
+Zm00730	chr3	22088083	22092427	-	hypothetical protein
+Zm00555	chr3	22427544	22435407	-	chlorophyll a/b binding protein
+Zm00619	chr3	23368325	23375021	-	ribosomal protein
+Zm01223	chr3	23427444	23432278	-	MYB transcription factor
+Zm00487	chr3	23590908	23594801	-	ribosomal protein
+Zm00345	chr3	25004461	25007855	-	aquaporin
+Zm01895	chr3	25556100	25560427	-	chlorophyll a/b binding protein
+Zm01959	chr3	26832718	26835203	-	ribosomal protein
+Zm01245	chr3	27815575	27816527	-	hypothetical protein
+Zm01184	chr3	27834574	27842038	+	ribosomal protein
+Zm01431	chr3	28287053	28294016	+	ribosomal protein
+Zm00317	chr3	28947108	28952187	-	heat shock protein
+Zm00603	chr3	28976915	28982143	+	MYB transcription factor
+Zm00292	chr3	31261850	31269157	-	hypothetical protein
+Zm00863	chr3	34112477	34116981	-	hypothetical protein
+Zm01735	chr3	35017290	35022661	-	ribosomal protein
+Zm00848	chr3	35161822	35166101	-	chlorophyll a/b binding protein
+Zm00477	chr3	35382310	35389657	-	hypothetical protein
+Zm01560	chr3	35938189	35941006	-	ribosomal protein
+Zm01880	chr3	37704809	37711967	+	aquaporin
+Zm01401	chr3	38410970	38419936	-	hypothetical protein
+Zm00300	chr3	38897846	38903236	-	hypothetical protein
+Zm01757	chr3	39253143	39261411	+	photosystem II subunit
+Zm01835	chr3	39605451	39613990	-	MYB transcription factor
+Zm00503	chr3	40550334	40558801	+	aquaporin
+Zm01673	chr3	40701460	40706131	-	chlorophyll a/b binding protein
+Zm00448	chr3	41398952	41401163	-	chlorophyll a/b binding protein
+Zm00342	chr3	41797717	41798627	+	glutamine synthetase
+Zm00965	chr3	41943162	41944524	-	aquaporin
+Zm00904	chr3	43039413	43048161	-	heat shock protein
+Zm00940	chr3	43170808	43177060	+	heat shock protein
+Zm00109	chr3	43357712	43360487	-	ribosomal protein
+Zm01699	chr3	43533219	43540935	-	ribosomal protein
+Zm00551	chr3	44771106	44773117	+	aquaporin
+Zm00537	chr3	45301515	45306903	-	photosystem II subunit
+Zm00970	chr3	47500287	47506576	+	cell wall invertase
+Zm00103	chr3	47837114	47838627	+	glutamine synthetase
+Zm01897	chr3	48358586	48363421	+	ribosomal protein
+Zm01894	chr3	48529369	48532502	+	chlorophyll a/b binding protein
+Zm00323	chr3	48922117	48929238	-	cell wall invertase
+Zm00587	chr3	49716734	49725680	-	heat shock protein
+Zm00512	chr3	49871855	49875164	-	ribosomal protein
+Zm00214	chr3	52150078	52157856	+	hypothetical protein
+Zm00125	chr3	53885938	53891299	-	aquaporin
+Zm00390	chr3	54555124	54562366	+	ribosomal protein
+Zm01945	chr3	55752854	55758803	+	aquaporin
+Zm00729	chr3	57064288	57071206	-	hypothetical protein
+Zm01097	chr3	57118088	57120052	+	heat shock protein
+Zm01910	chr3	57613804	57619536	+	hypothetical protein
+Zm01511	chr3	57748538	57757207	-	ribosomal protein
+Zm01863	chr3	59391242	59394443	-	photosystem II subunit
+Zm01575	chr3	60010276	60014451	-	ribosomal protein
+Zm00470	chr3	61125767	61128245	-	aquaporin
+Zm01719	chr3	61645088	61652683	+	hypothetical protein
+Zm01030	chr3	61900377	61902321	-	chlorophyll a/b binding protein
+Zm01332	chr3	62434498	62437160	-	hypothetical protein
+Zm00124	chr3	62455803	62460367	+	cell wall invertase
+Zm00054	chr3	62710663	62718790	-	aquaporin
+Zm00353	chr3	64585756	64588757	-	aquaporin
+Zm01713	chr3	65417577	65420136	-	hypothetical protein
+Zm01780	chr3	68374059	68379834	-	heat shock protein
+Zm01325	chr3	69167636	69176528	+	hypothetical protein
+Zm00410	chr3	70265257	70271460	+	photosystem II subunit
+Zm00217	chr3	71282666	71287363	+	cell wall invertase
+Zm01690	chr3	74244375	74251229	+	ribosomal protein
+Zm00526	chr3	75491996	75497428	-	hypothetical protein
+Zm00891	chr3	75871079	75878608	-	hypothetical protein
+Zm00709	chr3	77039451	77047809	-	hypothetical protein
+Zm00304	chr3	77087060	77089851	-	hypothetical protein
+Zm01819	chr3	77592274	77596086	-	ribosomal protein
+Zm01680	chr3	78003798	78007594	-	hypothetical protein
+Zm00770	chr3	78142316	78150739	+	chlorophyll a/b binding protein
+Zm00816	chr3	78476205	78483749	+	photosystem II subunit
+Zm01604	chr3	78808240	78809827	-	ribosomal protein
+Zm00274	chr3	79585597	79590431	+	asparagine synthetase
+Zm01241	chr3	79700353	79703813	-	MYB transcription factor
+Zm00741	chr3	79810842	79818904	+	asparagine synthetase
+Zm00211	chr3	82469634	82475898	+	hypothetical protein
+Zm01918	chr3	83595058	83603601	-	ribosomal protein
+Zm00160	chr3	84092513	84095513	-	aquaporin
+Zm01294	chr3	85054838	85061810	+	heat shock protein
+Zm01255	chr3	87507227	87508436	+	MYB transcription factor
+Zm01384	chr3	88310529	88313494	-	heat shock protein
+Zm00976	chr3	88637220	88639774	+	glutamine synthetase
+Zm00964	chr3	89098724	89100900	+	hypothetical protein
+Zm01856	chr3	89254812	89256661	+	ribosomal protein
+Zm00559	chr3	91530301	91536888	+	hypothetical protein
+Zm01779	chr3	91657250	91658928	+	chlorophyll a/b binding protein
+Zm01985	chr3	92770349	92773835	-	heat shock protein
+Zm00485	chr3	93363428	93365161	+	chlorophyll a/b binding protein
+Zm01108	chr3	93698126	93705457	+	MYB transcription factor
+Zm00805	chr3	94202460	94210041	-	hypothetical protein
+Zm01823	chr3	94565851	94574303	-	ribosomal protein
+Zm01696	chr3	95191552	95200263	-	chlorophyll a/b binding protein
+Zm01087	chr3	95218170	95224578	-	asparagine synthetase
+Zm00540	chr3	97299345	97307067	+	heat shock protein
+Zm01849	chr3	98421054	98428010	-	cell wall invertase
+Zm01355	chr3	99181637	99183758	-	hypothetical protein
+Zm00917	chr3	99585858	99590561	-	hypothetical protein
+Zm01496	chr3	99932150	99940224	+	aquaporin
+Zm00881	chr3	99952860	99960880	+	MYB transcription factor
+Zm01147	chr3	100696817	100697695	+	MYB transcription factor
+Zm00248	chr3	102460243	102465007	-	hypothetical protein
+Zm00656	chr3	102510422	102515791	+	MYB transcription factor
+Zm01076	chr3	104288162	104290250	-	photosystem II subunit
+Zm00622	chr3	105110265	105114990	+	hypothetical protein
+Zm00792	chr3	107661461	107664903	-	glutamine synthetase
+Zm00836	chr3	109231371	109233110	+	photosystem II subunit
+Zm01950	chr3	113264839	113268234	-	hypothetical protein
+Zm01582	chr3	113567598	113570636	-	nitrate transporter
+Zm00129	chr3	115201912	115207647	+	heat shock protein
+Zm01376	chr3	116995568	116999533	-	cell wall invertase
+Zm01035	chr3	117756197	117761210	-	photosystem II subunit
+Zm00901	chr3	119124752	119132960	+	heat shock protein
+Zm01313	chr3	119278787	119283066	+	hypothetical protein
+Zm00053	chr3	119361825	119367400	+	MYB transcription factor
+Zm01082	chr3	120070956	120076938	-	photosystem II subunit
+Zm01150	chr3	121635800	121639332	+	ribosomal protein
+Zm00290	chr3	122264919	122268046	+	photosystem II subunit
+Zm00516	chr3	122810585	122816625	-	MYB transcription factor
+Zm00225	chr3	123176728	123179864	-	hypothetical protein
+Zm01194	chr3	123797013	123799854	+	heat shock protein
+Zm01495	chr3	123862892	123869724	+	cell wall invertase
+Zm01358	chr3	124388865	124390069	+	heat shock protein
+Zm00668	chr3	124621466	124624361	-	photosystem II subunit
+Zm00968	chr3	124709290	124716510	-	MYB transcription factor
+Zm00208	chr3	125052131	125057849	-	cell wall invertase
+Zm00440	chr3	125683178	125689318	-	MYB transcription factor
+Zm01542	chr3	125853121	125860037	+	cell wall invertase
+Zm01317	chr3	125944017	125945408	-	hypothetical protein
+Zm00771	chr3	127856716	127863395	+	hypothetical protein
+Zm01484	chr3	129660908	129666748	+	photosystem II subunit
+Zm00986	chr3	129893451	129897363	-	hypothetical protein
+Zm01976	chr3	129913664	129917298	-	chlorophyll a/b binding protein
+Zm00781	chr3	130071343	130073929	+	hypothetical protein
+Zm00847	chr3	131844382	131851434	+	hypothetical protein
+Zm00445	chr3	131978711	131986197	+	ribosomal protein
+Zm00534	chr3	131990285	131991252	+	aquaporin
+Zm01619	chr3	132135395	132136464	-	MYB transcription factor
+Zm01638	chr3	135255066	135258770	-	hypothetical protein
+Zm01782	chr3	137062145	137070605	-	hypothetical protein
+Zm01206	chr3	137296537	137305326	+	hypothetical protein
+Zm01618	chr3	138293713	138298990	-	heat shock protein
+Zm01656	chr3	138468218	138476249	-	hypothetical protein
+Zm01925	chr3	138929335	138933683	-	ribosomal protein
+Zm01470	chr3	139142278	139148002	-	glutamine synthetase
+Zm00617	chr3	140029604	140036585	-	hypothetical protein
+Zm00501	chr3	141612940	141620446	-	hypothetical protein
+Zm00263	chr3	143643832	143651558	+	ribosomal protein
+Zm01595	chr3	147908198	147909453	-	ribosomal protein
+Zm01717	chr3	148463770	148467699	+	MYB transcription factor
+Zm01301	chr3	152588904	152591209	+	MYB transcription factor
+Zm00140	chr3	153726832	153730037	-	hypothetical protein
+Zm00337	chr3	153747803	153756335	-	glutamine synthetase
+Zm00404	chr3	154074703	154079465	-	hypothetical protein
+Zm01841	chr3	155004437	155006978	-	hypothetical protein
+Zm00790	chr3	156677752	156683154	-	ribosomal protein
+Zm00397	chr3	159177313	159185906	-	cell wall invertase
+Zm01190	chr3	159410623	159416272	-	heat shock protein
+Zm00609	chr3	162115815	162116760	-	chlorophyll a/b binding protein
+Zm01489	chr3	162140255	162146351	+	heat shock protein
+Zm01021	chr3	163016433	163023895	+	chlorophyll a/b binding protein
+Zm00934	chr3	167327333	167329108	+	ribosomal protein
+Zm00466	chr3	167525127	167526589	-	photosystem II subunit
+Zm00907	chr3	170399585	170408037	+	hypothetical protein
+Zm01799	chr3	170810886	170812456	-	ribosomal protein
+Zm01490	chr3	171410382	171415915	-	glutamine synthetase
+Zm00116	chr3	172378199	172385399	-	ribosomal protein
+Zm01363	chr3	174140152	174145260	+	photosystem II subunit
+Zm01720	chr3	175841807	175849504	+	ribosomal protein
+Zm01658	chr3	176362907	176364825	+	aquaporin
+Zm00766	chr3	176806112	176809174	-	hypothetical protein
+Zm01060	chr3	177198461	177204837	-	hypothetical protein
+Zm01372	chr3	180806483	180810265	+	MYB transcription factor
+Zm01991	chr3	181431313	181432625	+	hypothetical protein
+Zm01508	chr3	184366209	184369348	+	MYB transcription factor
+Zm00567	chr3	185560013	185563388	+	photosystem II subunit
+Zm01167	chr3	186093234	186102061	+	cell wall invertase
+Zm01398	chr3	186705855	186708045	-	ribosomal protein
+Zm01408	chr3	188182567	188188926	-	hypothetical protein
+Zm00634	chr3	188347863	188350781	-	hypothetical protein
+Zm01712	chr3	191772236	191773943	-	aquaporin
+Zm00998	chr3	192036881	192038001	-	heat shock protein
+Zm01787	chr3	192109390	192114954	+	ribosomal protein
+Zm01047	chr3	197526516	197529687	-	cell wall invertase
+Zm01834	chr3	197562444	197568613	+	hypothetical protein
+Zm01045	chr3	198612302	198616084	+	hypothetical protein
+Zm00127	chr3	199914155	199920064	-	heat shock protein
+Zm01581	chr3	200956710	200960976	-	ribosomal protein
+Zm00405	chr3	201756348	201764963	-	hypothetical protein
+Zm01447	chr3	201933696	201937609	+	heat shock protein
+Zm00017	chr3	202138141	202141348	+	hypothetical protein
+Zm00679	chr3	202839430	202848031	+	cell wall invertase
+Zm00627	chr3	206433444	206436136	+	hypothetical protein
+Zm01370	chr3	206844177	206850064	-	hypothetical protein
+Zm00718	chr3	209517474	209520340	-	ribosomal protein
+Zm01306	chr3	209592091	209597761	+	cell wall invertase
+Zm01506	chr3	210375252	210380813	-	hypothetical protein
+Zm01503	chr3	214129220	214130472	+	aquaporin
+Zm01285	chr3	215952392	215958300	+	MYB transcription factor
+Zm01163	chr3	216380776	216384341	-	MYB transcription factor
+Zm01161	chr3	216597725	216605488	-	heat shock protein
+Zm01041	chr3	217640399	217642343	+	hypothetical protein
+Zm00802	chr3	217756507	217759982	+	hypothetical protein
+Zm00899	chr3	217902768	217904421	+	cell wall invertase
+Zm01169	chr3	218251107	218255764	-	MYB transcription factor
+Zm01523	chr3	218402458	218409880	+	MYB transcription factor
+Zm01308	chr3	219416902	219423607	+	photosystem II subunit
+Zm00611	chr3	219959841	219965186	+	hypothetical protein
+Zm01105	chr3	221597029	221599638	+	hypothetical protein
+Zm01349	chr3	221651636	221654877	+	heat shock protein
+Zm01851	chr3	225263819	225267715	+	ribosomal protein
+Zm00829	chr3	229298906	229307174	-	heat shock protein
+Zm00636	chr3	230836616	230839881	+	MYB transcription factor
+Zm00524	chr3	232415776	232424544	-	photosystem II subunit
+Zm00632	chr3	232726844	232732249	+	cell wall invertase
+Zm00735	chr3	233027387	233035296	+	MYB transcription factor
+Zm01212	chr3	233234186	233241621	-	photosystem II subunit
+Zm01466	chr3	233554619	233555578	+	photosystem II subunit
+Zm01444	chr3	233662569	233665505	-	photosystem II subunit
+Zm01927	chr3	233680523	233686258	-	MYB transcription factor
+Zm01202	chr3	234035170	234043036	+	ribosomal protein
+Zm00623	chr3	234927617	234936386	+	hypothetical protein
+Zm00578	chr4	366472	367596	-	asparagine synthetase
+Zm01356	chr4	1156177	1157217	+	glutamine synthetase
+Zm01577	chr4	1660461	1667988	+	cell wall invertase
+Zm00530	chr4	1896502	1901126	+	MYB transcription factor
+Zm00669	chr4	2511636	2513751	+	glutamine synthetase
+Zm00299	chr4	2590365	2598323	+	hypothetical protein
+Zm00458	chr4	4091106	4096273	+	glutamine synthetase
+Zm00480	chr4	5099162	5103177	-	nitrate transporter
+Zm00438	chr4	5978848	5983708	+	ribosomal protein
+Zm00203	chr4	6928086	6931114	-	asparagine synthetase
+Zm01661	chr4	8971948	8973893	+	hypothetical protein
+Zm01102	chr4	9864626	9870185	-	heat shock protein
+Zm00811	chr4	10145448	10150632	+	chlorophyll a/b binding protein
+Zm00451	chr4	10729051	10735045	+	chlorophyll a/b binding protein
+Zm01547	chr4	11422338	11425095	-	hypothetical protein
+Zm00166	chr4	12098969	12101351	+	chlorophyll a/b binding protein
+Zm01662	chr4	12129004	12135569	-	chlorophyll a/b binding protein
+Zm01602	chr4	13703913	13706711	+	ribosomal protein
+Zm00278	chr4	15040696	15048181	-	hypothetical protein
+Zm00409	chr4	16464889	16470286	+	chlorophyll a/b binding protein
+Zm01733	chr4	16641498	16647362	-	chlorophyll a/b binding protein
+Zm01405	chr4	17952119	17958920	+	MYB transcription factor
+Zm00678	chr4	20190599	20196606	-	hypothetical protein
+Zm01400	chr4	20288315	20294515	-	heat shock protein
+Zm00479	chr4	23283299	23287844	-	hypothetical protein
+Zm01399	chr4	25110609	25116458	+	ribosomal protein
+Zm00733	chr4	27230985	27238189	-	hypothetical protein
+Zm01561	chr4	29967635	29974781	-	hypothetical protein
+Zm01529	chr4	30792177	30800308	+	ribosomal protein
+Zm01229	chr4	32568480	32572163	-	hypothetical protein
+Zm01715	chr4	33008353	33016488	-	MYB transcription factor
+Zm00433	chr4	36806763	36814663	+	chlorophyll a/b binding protein
+Zm01838	chr4	37077068	37086033	+	MYB transcription factor
+Zm01430	chr4	38229612	38231487	-	photosystem II subunit
+Zm00435	chr4	42293279	42299615	-	hypothetical protein
+Zm00315	chr4	42316790	42320632	-	hypothetical protein
+Zm00294	chr4	43344299	43352206	+	MYB transcription factor
+Zm00853	chr4	43798020	43802765	+	hypothetical protein
+Zm01868	chr4	44142685	44151143	-	hypothetical protein
+Zm01208	chr4	44153827	44155960	-	hypothetical protein
+Zm01183	chr4	45304115	45310243	+	hypothetical protein
+Zm00597	chr4	46489012	46497575	-	MYB transcription factor
+Zm00687	chr4	46673958	46676184	-	ribosomal protein
+Zm01333	chr4	46749209	46757043	-	ribosomal protein
+Zm01899	chr4	47146938	47147781	+	ribosomal protein
+Zm01739	chr4	49360003	49366140	+	hypothetical protein
+Zm01269	chr4	49906136	49911900	-	MYB transcription factor
+Zm01395	chr4	50450541	50453389	+	aquaporin
+Zm01753	chr4	51938929	51942368	+	hypothetical protein
+Zm00641	chr4	53446748	53454187	+	chlorophyll a/b binding protein
+Zm01279	chr4	53940693	53947993	+	hypothetical protein
+Zm00682	chr4	54102794	54107744	-	aquaporin
+Zm00778	chr4	56421986	56427800	-	ribosomal protein
+Zm01818	chr4	56901490	56909730	+	MYB transcription factor
+Zm00022	chr4	58497251	58501741	-	heat shock protein
+Zm01305	chr4	58821548	58830366	+	aquaporin
+Zm00268	chr4	59077325	59078693	-	aquaporin
+Zm00652	chr4	59269301	59270292	-	hypothetical protein
+Zm00038	chr4	59628169	59630690	-	hypothetical protein
+Zm00804	chr4	59779780	59780891	+	hypothetical protein
+Zm00996	chr4	59865565	59873300	-	ribosomal protein
+Zm01655	chr4	60141842	60147243	+	hypothetical protein
+Zm01913	chr4	60336430	60344334	+	chlorophyll a/b binding protein
+Zm00072	chr4	60581697	60584247	+	photosystem II subunit
+Zm00708	chr4	60776954	60782684	-	aquaporin
+Zm01176	chr4	64482403	64485815	-	hypothetical protein
+Zm00783	chr4	65027254	65032246	+	ribosomal protein
+Zm00226	chr4	66425575	66432259	+	heat shock protein
+Zm01998	chr4	68422535	68427886	+	MYB transcription factor
+Zm01339	chr4	69147113	69149143	+	MYB transcription factor
+Zm01357	chr4	72194570	72200874	-	ribosomal protein
+Zm01314	chr4	72976913	72978926	+	hypothetical protein
+Zm01473	chr4	74063010	74065327	-	hypothetical protein
+Zm01774	chr4	74899494	74900543	+	hypothetical protein
+Zm01258	chr4	77814788	77817605	+	hypothetical protein
+Zm00309	chr4	77862400	77870423	-	heat shock protein
+Zm01086	chr4	81321607	81328565	-	aquaporin
+Zm00670	chr4	82202953	82209863	+	hypothetical protein
+Zm01869	chr4	82779896	82784235	+	hypothetical protein
+Zm01114	chr4	84877398	84879844	-	hypothetical protein
+Zm00468	chr4	86773862	86782487	+	hypothetical protein
+Zm00527	chr4	87434323	87435508	+	hypothetical protein
+Zm01394	chr4	88550055	88558771	-	nitrate transporter
+Zm01369	chr4	89264833	89273468	+	chlorophyll a/b binding protein
+Zm01795	chr4	89305509	89308250	+	cell wall invertase
+Zm01908	chr4	92162757	92171138	+	heat shock protein
+Zm00230	chr4	92308564	92316631	+	photosystem II subunit
+Zm00430	chr4	93711374	93719956	-	hypothetical protein
+Zm01039	chr4	96388850	96390603	-	aquaporin
+Zm01353	chr4	98251175	98259953	-	hypothetical protein
+Zm01386	chr4	98775493	98777342	+	chlorophyll a/b binding protein
+Zm01420	chr4	102617182	102620687	-	aquaporin
+Zm00734	chr4	104005353	104006478	+	MYB transcription factor
+Zm00201	chr4	106253095	106258984	-	asparagine synthetase
+Zm01427	chr4	106613219	106620314	-	nitrate transporter
+Zm01749	chr4	107496608	107499085	-	ribosomal protein
+Zm01685	chr4	107911823	107918430	+	hypothetical protein
+Zm01873	chr4	107996757	108004966	+	hypothetical protein
+Zm00467	chr4	109671036	109673622	+	aquaporin
+Zm00606	chr4	110948793	110952146	+	hypothetical protein
+Zm00671	chr4	111683472	111686491	-	aquaporin
+Zm00494	chr4	111987852	111995002	-	chlorophyll a/b binding protein
+Zm00068	chr4	112637031	112641406	-	MYB transcription factor
+Zm01962	chr4	113144920	113148008	-	ribosomal protein
+Zm01307	chr4	114771747	114774349	+	aquaporin
+Zm01195	chr4	116072759	116076847	-	heat shock protein
+Zm01040	chr4	117052586	117059434	-	chlorophyll a/b binding protein
+Zm00845	chr4	117771284	117776134	+	hypothetical protein
+Zm01020	chr4	118114453	118118084	-	aquaporin
+Zm01522	chr4	120042383	120048801	-	aquaporin
+Zm00252	chr4	120056635	120060699	-	chlorophyll a/b binding protein
+Zm01937	chr4	120909461	120910416	+	heat shock protein
+Zm01298	chr4	122382627	122390167	+	MYB transcription factor
+Zm01214	chr4	125695762	125701538	+	photosystem II subunit
+Zm00575	chr4	126220156	126223809	-	hypothetical protein
+Zm01892	chr4	127302777	127309542	+	hypothetical protein
+Zm01737	chr4	128130413	128138794	-	aquaporin
+Zm01007	chr4	128239383	128245104	+	heat shock protein
+Zm00629	chr4	128927645	128930131	+	photosystem II subunit
+Zm00839	chr4	129386295	129392450	+	chlorophyll a/b binding protein
+Zm00873	chr4	130223736	130224861	+	heat shock protein
+Zm00205	chr4	130542755	130550262	-	cell wall invertase
+Zm00237	chr4	130657409	130661603	-	heat shock protein
+Zm00919	chr4	130841885	130849305	+	MYB transcription factor
+Zm01551	chr4	131859371	131866471	-	ribosomal protein
+Zm01726	chr4	132809350	132812232	-	hypothetical protein
+Zm01179	chr4	133980758	133983547	+	hypothetical protein
+Zm01441	chr4	134842157	134846741	-	asparagine synthetase
+Zm01554	chr4	135886176	135892177	+	glutamine synthetase
+Zm01263	chr4	138571154	138577857	-	hypothetical protein
+Zm01027	chr4	138671327	138678056	-	aquaporin
+Zm00511	chr4	138786211	138791769	-	MYB transcription factor
+Zm00301	chr4	140649222	140655516	-	hypothetical protein
+Zm00307	chr4	141522181	141529274	-	chlorophyll a/b binding protein
+Zm00192	chr4	145356214	145362343	+	hypothetical protein
+Zm01904	chr4	145545695	145549469	-	hypothetical protein
+Zm01810	chr4	146144599	146149898	+	ribosomal protein
+Zm01709	chr4	146536629	146542835	-	ribosomal protein
+Zm00727	chr4	146790246	146793549	-	hypothetical protein
+Zm00402	chr4	147111561	147113633	-	heat shock protein
+Zm00279	chr4	149055849	149061560	-	hypothetical protein
+Zm00572	chr4	151165042	151166315	-	aquaporin
+Zm00029	chr4	151780303	151788160	+	hypothetical protein
+Zm01933	chr4	155788188	155795825	+	chlorophyll a/b binding protein
+Zm00707	chr4	156431030	156439625	+	hypothetical protein
+Zm01083	chr4	157224879	157226366	+	hypothetical protein
+Zm01486	chr4	157702351	157709995	+	hypothetical protein
+Zm00229	chr4	158057775	158064818	+	hypothetical protein
+Zm00347	chr4	158534568	158535469	+	hypothetical protein
+Zm00936	chr4	159083387	159092146	+	hypothetical protein
+Zm01158	chr4	160442425	160451100	-	nitrate transporter
+Zm00073	chr4	161535688	161537186	-	ribosomal protein
+Zm01745	chr4	161960326	161962678	-	ribosomal protein
+Zm00520	chr4	163368244	163369827	-	hypothetical protein
+Zm00042	chr4	164432994	164433848	-	ribosomal protein
+Zm00705	chr4	164991539	164992425	+	hypothetical protein
+Zm00223	chr4	165413578	165417591	-	asparagine synthetase
+Zm01570	chr4	165909284	165911724	-	cell wall invertase
+Zm01921	chr4	166078184	166085965	-	hypothetical protein
+Zm01329	chr4	166655007	166656275	+	ribosomal protein
+Zm01262	chr4	168985252	168991864	+	ribosomal protein
+Zm01862	chr4	170848274	170855053	+	photosystem II subunit
+Zm01972	chr4	171776863	171780366	-	hypothetical protein
+Zm00864	chr4	172014188	172021799	+	chlorophyll a/b binding protein
+Zm00791	chr4	172048534	172052103	+	MYB transcription factor
+Zm00769	chr4	172384523	172390076	+	ribosomal protein
+Zm00529	chr4	172945529	172950343	-	MYB transcription factor
+Zm00593	chr4	174466782	174474666	-	ribosomal protein
+Zm00797	chr4	176243924	176245018	-	hypothetical protein
+Zm01032	chr4	176423645	176432169	-	ribosomal protein
+Zm00541	chr4	177940746	177942581	-	MYB transcription factor
+Zm00366	chr4	178365803	178367032	+	chlorophyll a/b binding protein
+Zm00030	chr4	178846605	178848645	-	hypothetical protein
+Zm01530	chr4	179687362	179689922	-	chlorophyll a/b binding protein
+Zm01385	chr4	180043070	180045487	+	ribosomal protein
+Zm01373	chr4	180589104	180593931	-	hypothetical protein
+Zm00672	chr4	182502175	182507324	+	MYB transcription factor
+Zm00165	chr4	182866723	182875587	-	asparagine synthetase
+Zm00189	chr4	183181698	183187811	+	MYB transcription factor
+Zm01943	chr4	184716379	184722093	-	hypothetical protein
+Zm00915	chr4	184966199	184968810	+	hypothetical protein
+Zm01548	chr4	185010136	185016711	-	photosystem II subunit
+Zm01640	chr4	186767771	186773752	-	ribosomal protein
+Zm00003	chr4	187210864	187215038	+	cell wall invertase
+Zm00262	chr4	187267701	187269326	+	photosystem II subunit
+Zm00115	chr4	187964603	187969921	-	MYB transcription factor
+Zm00104	chr4	189025084	189030912	-	aquaporin
+Zm00637	chr4	190406828	190407984	+	hypothetical protein
+Zm01738	chr4	190908595	190913086	-	chlorophyll a/b binding protein
+Zm01845	chr4	191138201	191147071	+	chlorophyll a/b binding protein
+Zm01755	chr4	191224917	191232507	+	hypothetical protein
+Zm00114	chr4	191300268	191305223	+	hypothetical protein
+Zm00880	chr4	192207704	192215394	-	glutamine synthetase
+Zm00972	chr4	192208401	192210413	-	heat shock protein
+Zm00373	chr4	194744338	194752154	-	asparagine synthetase
+Zm01579	chr4	196672136	196673258	+	asparagine synthetase
+Zm01634	chr4	197646343	197653351	+	hypothetical protein
+Zm01451	chr4	198293266	198299876	+	chlorophyll a/b binding protein
+Zm00327	chr4	198424874	198427994	+	hypothetical protein
+Zm01311	chr4	199379522	199388358	-	glutamine synthetase
+Zm01168	chr4	200303663	200310877	+	chlorophyll a/b binding protein
+Zm01584	chr4	202552729	202557869	+	photosystem II subunit
+Zm01346	chr4	203257707	203264618	+	glutamine synthetase
+Zm01790	chr4	203619436	203622490	+	ribosomal protein
+Zm01562	chr4	204624157	204630755	-	hypothetical protein
+Zm01075	chr4	209740693	209745759	+	aquaporin
+Zm00044	chr4	215652519	215659055	+	aquaporin
+Zm01664	chr4	215930852	215932838	+	ribosomal protein
+Zm00544	chr4	216841720	216850289	-	MYB transcription factor
+Zm00660	chr4	217141452	217145786	+	hypothetical protein
+Zm01549	chr4	218242725	218249407	+	aquaporin
+Zm00005	chr4	218652851	218653866	+	photosystem II subunit
+Zm00369	chr4	219269914	219272345	-	chlorophyll a/b binding protein
+Zm01112	chr4	219364039	219369091	-	heat shock protein
+Zm00407	chr4	219625578	219633879	-	hypothetical protein
+Zm00475	chr4	220922646	220927897	-	hypothetical protein
+Zm00057	chr4	222982148	222985969	-	cell wall invertase
+Zm01116	chr4	223573771	223580170	+	hypothetical protein
+Zm00875	chr4	223621167	223627316	-	aquaporin
+Zm01300	chr4	223857453	223864127	+	MYB transcription factor
+Zm01689	chr4	224130064	224137533	+	heat shock protein
+Zm01201	chr4	224841762	224845454	-	chlorophyll a/b binding protein
+Zm00077	chr4	224917008	224920944	+	chlorophyll a/b binding protein
+Zm01291	chr4	226456716	226464359	+	ribosomal protein
+Zm00319	chr4	227919230	227923694	+	cell wall invertase
+Zm01772	chr4	229620131	229628486	+	hypothetical protein
+Zm00045	chr4	231688968	231695398	+	photosystem II subunit
+Zm00923	chr4	232533216	232540674	+	photosystem II subunit
+Zm01271	chr4	232589628	232598614	+	hypothetical protein
+Zm01695	chr4	232672091	232678594	+	hypothetical protein
+Zm00059	chr4	233589338	233596188	+	ribosomal protein
+Zm01764	chr4	233610530	233619212	+	photosystem II subunit
+Zm00215	chr4	234343330	234344787	+	photosystem II subunit
+Zm01461	chr4	236055943	236061263	-	hypothetical protein
+Zm00216	chr4	238931716	238939043	+	cell wall invertase
+Zm01256	chr4	239236750	239240781	-	cell wall invertase
+Zm00168	chr4	239838695	239843963	-	MYB transcription factor
+Zm01769	chr4	240941090	240946609	-	hypothetical protein
+Zm01479	chr4	241007927	241014615	+	chlorophyll a/b binding protein
+Zm01449	chr4	241428185	241434299	+	glutamine synthetase
+Zm00429	chr4	244702251	244704697	-	cell wall invertase
+Zm00389	chr4	245543973	245547487	+	ribosomal protein
+Zm01443	chr4	246856259	246858797	+	hypothetical protein
+Zm00684	chr5	2507062	2513215	+	photosystem II subunit
+Zm00870	chr5	3157064	3164594	-	MYB transcription factor
+Zm00958	chr5	3634139	3639254	+	aquaporin
+Zm01528	chr5	3715143	3724118	-	hypothetical protein
+Zm00782	chr5	5061462	5067245	-	ribosomal protein
+Zm01402	chr5	5154645	5160126	+	hypothetical protein
+Zm01996	chr5	5821416	5822393	-	cell wall invertase
+Zm01732	chr5	7108053	7115036	+	ribosomal protein
+Zm00788	chr5	9801568	9808163	+	ribosomal protein
+Zm00693	chr5	9887190	9891678	+	glutamine synthetase
+Zm00243	chr5	10087561	10093000	+	photosystem II subunit
+Zm00437	chr5	11041515	11049928	+	hypothetical protein
+Zm00360	chr5	12127870	12136034	+	cell wall invertase
+Zm00167	chr5	13007921	13013744	+	MYB transcription factor
+Zm00233	chr5	13275842	13277604	+	photosystem II subunit
+Zm01005	chr5	13683222	13684485	+	hypothetical protein
+Zm00403	chr5	13767691	13770449	-	MYB transcription factor
+Zm01796	chr5	13876621	13883893	-	MYB transcription factor
+Zm01938	chr5	13897519	13899328	-	chlorophyll a/b binding protein
+Zm01164	chr5	14525809	14533382	-	photosystem II subunit
+Zm01750	chr5	14866348	14872119	-	chlorophyll a/b binding protein
+Zm00148	chr5	15641665	15648752	-	chlorophyll a/b binding protein
+Zm01038	chr5	15706708	15708337	+	MYB transcription factor
+Zm00039	chr5	15892693	15898615	+	ribosomal protein
+Zm01967	chr5	17117624	17124388	-	glutamine synthetase
+Zm01814	chr5	18883661	18888538	+	MYB transcription factor
+Zm00067	chr5	21540620	21543964	+	hypothetical protein
+Zm01015	chr5	22397752	22406481	+	nitrate transporter
+Zm00424	chr5	23761857	23768652	-	heat shock protein
+Zm01424	chr5	23976954	23979828	-	aquaporin
+Zm01008	chr5	24838150	24843428	+	photosystem II subunit
+Zm01320	chr5	26030745	26033921	-	MYB transcription factor
+Zm01233	chr5	26677119	26684593	+	hypothetical protein
+Zm00280	chr5	26968670	26973526	+	hypothetical protein
+Zm00835	chr5	28699145	28706961	-	cell wall invertase
+Zm01433	chr5	29042125	29045450	+	hypothetical protein
+Zm00108	chr5	29808509	29815385	+	aquaporin
+Zm00473	chr5	32298584	32300259	+	ribosomal protein
+Zm01608	chr5	33689653	33693543	-	asparagine synthetase
+Zm01525	chr5	35551561	35553837	-	MYB transcription factor
+Zm01593	chr5	35691849	35696691	-	hypothetical protein
+Zm01741	chr5	38233940	38235773	-	cell wall invertase
+Zm00330	chr5	40234297	40242257	-	MYB transcription factor
+Zm01078	chr5	42034183	42036213	+	ribosomal protein
+Zm00006	chr5	45193164	45201508	+	ribosomal protein
+Zm01742	chr5	46458580	46467221	+	hypothetical protein
+Zm01973	chr5	46842486	46846571	-	hypothetical protein
+Zm01785	chr5	47442121	47450916	+	hypothetical protein
+Zm01251	chr5	49171999	49178225	-	hypothetical protein
+Zm00625	chr5	49249159	49257335	+	asparagine synthetase
+Zm01884	chr5	52760359	52768718	-	cell wall invertase
+Zm00772	chr5	53231486	53234300	-	photosystem II subunit
+Zm01725	chr5	56214882	56221388	-	hypothetical protein
+Zm00462	chr5	58283222	58288990	+	MYB transcription factor
+Zm01983	chr5	60185936	60189455	+	hypothetical protein
+Zm01620	chr5	62267066	62272506	-	chlorophyll a/b binding protein
+Zm00204	chr5	64510846	64516357	+	hypothetical protein
+Zm00714	chr5	65111208	65113081	-	heat shock protein
+Zm00055	chr5	65174084	65180495	+	ribosomal protein
+Zm01982	chr5	67353413	67359744	+	aquaporin
+Zm00710	chr5	67549494	67555161	-	asparagine synthetase
+Zm01186	chr5	70558557	70562007	+	glutamine synthetase
+Zm00258	chr5	72540780	72545302	-	MYB transcription factor
+Zm00810	chr5	72934824	72936028	+	hypothetical protein
+Zm00615	chr5	73465344	73473893	+	hypothetical protein
+Zm01494	chr5	74237760	74239340	+	heat shock protein
+Zm01280	chr5	74263280	74268705	-	hypothetical protein
+Zm01330	chr5	74481074	74488208	+	chlorophyll a/b binding protein
+Zm01207	chr5	74548811	74554223	+	heat shock protein
+Zm01312	chr5	77438437	77444404	+	MYB transcription factor
+Zm00746	chr5	77717531	77721497	-	chlorophyll a/b binding protein
+Zm00062	chr5	78847179	78849569	-	nitrate transporter
+Zm01088	chr5	79616541	79622695	+	ribosomal protein
+Zm00545	chr5	79651217	79653993	-	aquaporin
+Zm00519	chr5	80393241	80397671	+	chlorophyll a/b binding protein
+Zm00495	chr5	81640797	81644782	+	ribosomal protein
+Zm00608	chr5	83131850	83138257	-	hypothetical protein
+Zm00175	chr5	83186698	83192337	+	asparagine synthetase
+Zm01266	chr5	83256614	83260017	+	ribosomal protein
+Zm01612	chr5	84965098	84966753	-	nitrate transporter
+Zm00190	chr5	87928025	87928963	+	ribosomal protein
+Zm01257	chr5	89609085	89614673	-	nitrate transporter
+Zm00312	chr5	90327433	90329075	-	aquaporin
+Zm00584	chr5	91813358	91814724	+	photosystem II subunit
+Zm01109	chr5	92126638	92135600	+	heat shock protein
+Zm00161	chr5	92161710	92162531	-	hypothetical protein
+Zm01292	chr5	95607360	95615928	+	heat shock protein
+Zm01589	chr5	96343979	96348010	-	ribosomal protein
+Zm01748	chr5	97499358	97502985	+	aquaporin
+Zm01747	chr5	97725316	97732781	-	chlorophyll a/b binding protein
+Zm00242	chr5	99224235	99229894	-	ribosomal protein
+Zm01403	chr5	99250391	99257808	-	chlorophyll a/b binding protein
+Zm00375	chr5	99431515	99437190	+	hypothetical protein
+Zm01767	chr5	99812006	99815746	-	heat shock protein
+Zm00941	chr5	100981511	100982886	-	aquaporin
+Zm01054	chr5	101817098	101822380	-	hypothetical protein
+Zm01221	chr5	103621556	103625674	-	hypothetical protein
+Zm01034	chr5	105274546	105282460	+	cell wall invertase
+Zm01792	chr5	107472569	107476633	-	photosystem II subunit
+Zm01321	chr5	108285540	108290686	+	ribosomal protein
+Zm00497	chr5	111101137	111107389	-	asparagine synthetase
+Zm00920	chr5	111705454	111714404	-	photosystem II subunit
+Zm00822	chr5	112453020	112454530	-	hypothetical protein
+Zm00583	chr5	114762836	114770411	+	cell wall invertase
+Zm00019	chr5	114949421	114955731	-	hypothetical protein
+Zm01410	chr5	116839778	116841662	-	hypothetical protein
+Zm00153	chr5	117401294	117405824	+	ribosomal protein
+Zm01687	chr5	119326873	119334370	-	hypothetical protein
+Zm01553	chr5	120574135	120579980	-	ribosomal protein
+Zm00944	chr5	120870873	120876203	-	MYB transcription factor
+Zm01173	chr5	121634416	121642563	-	hypothetical protein
+Zm00914	chr5	123333687	123339020	-	aquaporin
+Zm00310	chr5	127990408	127993576	-	hypothetical protein
+Zm01997	chr5	129739146	129740520	-	ribosomal protein
+Zm00483	chr5	130794672	130802248	+	ribosomal protein
+Zm01761	chr5	130858821	130866724	-	glutamine synthetase
+Zm00645	chr5	131076517	131079648	+	hypothetical protein
+Zm01383	chr5	131516061	131517416	-	MYB transcription factor
+Zm00270	chr5	132092673	132095481	+	MYB transcription factor
+Zm00265	chr5	134049613	134050573	-	aquaporin
+Zm01412	chr5	137111450	137117241	-	asparagine synthetase
+Zm00854	chr5	137525150	137527818	+	MYB transcription factor
+Zm01185	chr5	138441352	138444909	-	heat shock protein
+Zm00101	chr5	139481328	139489888	+	ribosomal protein
+Zm00596	chr5	140143174	140145976	-	photosystem II subunit
+Zm00244	chr5	141017420	141020016	+	photosystem II subunit
+Zm00075	chr5	141799616	141802260	+	MYB transcription factor
+Zm01172	chr5	144018446	144023268	-	hypothetical protein
+Zm00213	chr5	144368169	144374237	+	MYB transcription factor
+Zm01832	chr5	144461671	144462611	+	chlorophyll a/b binding protein
+Zm00422	chr5	145178314	145184156	-	heat shock protein
+Zm00633	chr5	145576608	145584432	+	heat shock protein
+Zm00514	chr5	146391272	146400015	+	chlorophyll a/b binding protein
+Zm01411	chr5	150213485	150216994	+	aquaporin
+Zm01783	chr5	152546416	152547375	+	ribosomal protein
+Zm00759	chr5	154415920	154421385	-	chlorophyll a/b binding protein
+Zm01242	chr5	155536411	155539119	-	hypothetical protein
+Zm00401	chr5	155548675	155556618	-	hypothetical protein
+Zm00181	chr5	155813014	155815052	-	aquaporin
+Zm01136	chr5	157206881	157212145	+	photosystem II subunit
+Zm01731	chr5	158410087	158414775	-	aquaporin
+Zm00803	chr5	158631820	158633933	+	hypothetical protein
+Zm00646	chr5	160283635	160286107	+	aquaporin
+Zm01535	chr5	163920316	163923444	-	heat shock protein
+Zm00010	chr5	165699809	165700791	-	ribosomal protein
+Zm00286	chr5	166698727	166703817	-	heat shock protein
+Zm00616	chr5	166775413	166783086	-	hypothetical protein
+Zm00812	chr5	169231474	169236074	+	cell wall invertase
+Zm01766	chr5	170324877	170330142	-	photosystem II subunit
+Zm00859	chr5	171085049	171089095	-	photosystem II subunit
+Zm00546	chr5	173215197	173218922	-	aquaporin
+Zm01677	chr5	173260030	173263413	+	MYB transcription factor
+Zm01260	chr5	173591036	173596129	-	aquaporin
+Zm00642	chr5	174200754	174201848	-	hypothetical protein
+Zm01740	chr5	174593749	174600753	+	photosystem II subunit
+Zm01091	chr5	174896459	174904973	-	aquaporin
+Zm01304	chr5	177003333	177008824	+	chlorophyll a/b binding protein
+Zm01990	chr5	178174280	178178794	-	MYB transcription factor
+Zm01583	chr5	178451393	178454825	-	ribosomal protein
+Zm01558	chr5	179284239	179291560	+	cell wall invertase
+Zm00344	chr5	180932326	180939309	-	hypothetical protein
+Zm01463	chr5	181182010	181186583	-	hypothetical protein
+Zm01600	chr5	182011341	182018804	-	ribosomal protein
+Zm01969	chr5	183961542	183965948	-	chlorophyll a/b binding protein
+Zm00050	chr5	185387140	185393291	-	hypothetical protein
+Zm00398	chr5	185650496	185656691	+	MYB transcription factor
+Zm01434	chr5	186672876	186679333	+	hypothetical protein
+Zm01415	chr5	187477489	187482474	+	heat shock protein
+Zm01151	chr5	188768032	188775599	+	hypothetical protein
+Zm00683	chr5	189148423	189154419	+	chlorophyll a/b binding protein
+Zm01858	chr5	189287411	189289290	-	chlorophyll a/b binding protein
+Zm00443	chr5	189389920	189391666	+	MYB transcription factor
+Zm00382	chr5	189655149	189660158	-	hypothetical protein
+Zm00379	chr5	190324878	190330418	+	hypothetical protein
+Zm01328	chr5	190551933	190559186	+	photosystem II subunit
+Zm00947	chr5	190911510	190917453	-	nitrate transporter
+Zm00277	chr5	191421145	191423323	+	ribosomal protein
+Zm00515	chr5	191645312	191647691	+	hypothetical protein
+Zm01505	chr5	192164982	192165799	-	heat shock protein
+Zm01881	chr5	193424380	193426536	-	photosystem II subunit
+Zm01708	chr5	193768223	193772359	+	hypothetical protein
+Zm00018	chr5	194217887	194226294	+	ribosomal protein
+Zm00460	chr5	195736871	195742364	-	hypothetical protein
+Zm00689	chr5	195776110	195783362	-	nitrate transporter
+Zm00156	chr5	195785002	195786288	-	MYB transcription factor
+Zm00536	chr5	196069552	196073371	+	hypothetical protein
+Zm00184	chr5	196436346	196440924	-	hypothetical protein
+Zm01204	chr5	197024484	197027105	-	hypothetical protein
+Zm01536	chr5	197417711	197425559	-	ribosomal protein
+Zm01763	chr5	198457062	198463570	+	hypothetical protein
+Zm00916	chr5	198801523	198807814	-	cell wall invertase
+Zm01057	chr5	199659786	199665817	+	MYB transcription factor
+Zm00988	chr5	199740146	199743015	+	chlorophyll a/b binding protein
+Zm00372	chr5	200813004	200814837	+	ribosomal protein
+Zm00364	chr5	200916460	200921886	-	heat shock protein
+Zm00431	chr5	202065735	202071823	-	chlorophyll a/b binding protein
+Zm00324	chr5	202066652	202069057	-	ribosomal protein
+Zm00505	chr5	205326412	205329197	-	chlorophyll a/b binding protein
+Zm01543	chr5	205676983	205685285	-	hypothetical protein
+Zm01274	chr5	207205212	207207757	+	hypothetical protein
+Zm00745	chr5	207984260	207988463	-	cell wall invertase
+Zm00521	chr5	208244371	208248679	+	hypothetical protein
+Zm00895	chr5	209713686	209722672	-	cell wall invertase
+Zm01682	chr5	211178192	211186597	+	heat shock protein
+Zm01934	chr5	211427967	211433920	+	hypothetical protein
+Zm01791	chr5	211733139	211738990	-	photosystem II subunit
+Zm01413	chr5	213136159	213140844	+	chlorophyll a/b binding protein
+Zm00335	chr5	213215492	213217397	+	hypothetical protein
+Zm01683	chr5	214043812	214044953	-	hypothetical protein
+Zm00610	chr5	215787298	215791702	-	heat shock protein
+Zm01906	chr5	217363454	217368940	+	ribosomal protein
+Zm01524	chr5	217730489	217739199	+	MYB transcription factor
+Zm00860	chr5	218254993	218258265	+	photosystem II subunit
+Zm00665	chr5	219456587	219464320	+	hypothetical protein
+Zm01197	chr5	221618725	221621707	+	MYB transcription factor
+Zm00099	chr5	221879081	221881567	-	heat shock protein
+Zm00655	chr6	215230	219407	+	heat shock protein
+Zm00777	chr6	932892	941741	-	hypothetical protein
+Zm01337	chr6	1297312	1299592	+	nitrate transporter
+Zm01265	chr6	1394275	1400046	+	photosystem II subunit
+Zm01977	chr6	1609039	1611561	+	hypothetical protein
+Zm00905	chr6	1616354	1623122	+	glutamine synthetase
+Zm01952	chr6	2176920	2180839	-	hypothetical protein
+Zm00415	chr6	3504749	3510186	+	ribosomal protein
+Zm00394	chr6	6541543	6548944	+	aquaporin
+Zm00380	chr6	12323798	12331960	+	glutamine synthetase
+Zm00046	chr6	12940520	12947294	-	heat shock protein
+Zm01418	chr6	13262052	13266856	+	hypothetical protein
+Zm00058	chr6	13434529	13441978	-	cell wall invertase
+Zm01800	chr6	13528562	13536411	+	hypothetical protein
+Zm01174	chr6	14814285	14821277	-	hypothetical protein
+Zm00654	chr6	15325537	15332536	+	nitrate transporter
+Zm01907	chr6	16085024	16092122	-	heat shock protein
+Zm00136	chr6	17758838	17767792	+	chlorophyll a/b binding protein
+Zm00105	chr6	18380890	18382566	+	photosystem II subunit
+Zm01727	chr6	18928260	18930860	+	MYB transcription factor
+Zm01557	chr6	23024636	23029315	+	cell wall invertase
+Zm01391	chr6	24183033	24191754	-	cell wall invertase
+Zm01507	chr6	24612513	24615641	+	hypothetical protein
+Zm00031	chr6	26031787	26034632	+	hypothetical protein
+Zm01546	chr6	26434009	26436347	+	chlorophyll a/b binding protein
+Zm01192	chr6	26552749	26557015	+	MYB transcription factor
+Zm00363	chr6	26922155	26929407	-	hypothetical protein
+Zm01888	chr6	27297216	27298518	-	hypothetical protein
+Zm00219	chr6	27632547	27639963	-	hypothetical protein
+Zm00032	chr6	27779094	27786387	+	aquaporin
+Zm01141	chr6	31413453	31420884	-	glutamine synthetase
+Zm00220	chr6	31513674	31522492	+	MYB transcription factor
+Zm00200	chr6	31770724	31779008	-	aquaporin
+Zm01639	chr6	37233673	37234826	+	hypothetical protein
+Zm00158	chr6	37364903	37373373	+	hypothetical protein
+Zm01516	chr6	37454611	37459606	+	hypothetical protein
+Zm01697	chr6	40336623	40338475	-	hypothetical protein
+Zm00517	chr6	40549340	40558104	-	heat shock protein
+Zm00819	chr6	41188261	41191514	-	hypothetical protein
+Zm01352	chr6	42557751	42566583	+	asparagine synthetase
+Zm01622	chr6	42997691	43002658	-	MYB transcription factor
+Zm01450	chr6	43090799	43099314	+	heat shock protein
+Zm00742	chr6	43838131	43842292	+	chlorophyll a/b binding protein
+Zm00879	chr6	43925755	43931297	+	chlorophyll a/b binding protein
+Zm01042	chr6	45662216	45665176	+	ribosomal protein
+Zm00492	chr6	45837458	45843943	-	aquaporin
+Zm00553	chr6	46153735	46158958	+	MYB transcription factor
+Zm01752	chr6	48124872	48125995	-	ribosomal protein
+Zm00747	chr6	48544411	48545673	+	photosystem II subunit
+Zm00406	chr6	48684392	48687999	+	asparagine synthetase
+Zm00197	chr6	49693696	49702313	-	hypothetical protein
+Zm01864	chr6	52363855	52370913	+	heat shock protein
+Zm00399	chr6	52674049	52676823	+	heat shock protein
+Zm01836	chr6	52770194	52771277	+	heat shock protein
+Zm00249	chr6	54350069	54352148	+	hypothetical protein
+Zm00959	chr6	54562072	54570379	-	ribosomal protein
+Zm00012	chr6	54978294	54982226	+	ribosomal protein
+Zm00186	chr6	55069148	55075243	-	MYB transcription factor
+Zm01440	chr6	56714509	56721032	-	aquaporin
+Zm00098	chr6	57062303	57069763	-	aquaporin
+Zm00425	chr6	57233256	57236581	-	aquaporin
+Zm01912	chr6	57707149	57711810	+	hypothetical protein
+Zm00542	chr6	58119654	58123338	-	hypothetical protein
+Zm00112	chr6	61638201	61644488	-	ribosomal protein
+Zm01303	chr6	61664622	61667419	-	hypothetical protein
+Zm00110	chr6	62072880	62077633	+	photosystem II subunit
+Zm00135	chr6	62552964	62560297	-	glutamine synthetase
+Zm01916	chr6	62701954	62710388	+	photosystem II subunit
+Zm01743	chr6	64631362	64633433	+	hypothetical protein
+Zm01672	chr6	67279149	67281145	+	MYB transcription factor
+Zm01724	chr6	69779305	69780628	-	cell wall invertase
+Zm00909	chr6	71577513	71581040	-	cell wall invertase
+Zm00946	chr6	71962929	71966872	-	ribosomal protein
+Zm00626	chr6	73077345	73079813	+	heat shock protein
+Zm01375	chr6	76932848	76935158	-	heat shock protein
+Zm00696	chr6	77024868	77029139	+	cell wall invertase
+Zm01131	chr6	77397396	77398658	-	ribosomal protein
+Zm00465	chr6	77433153	77438204	-	MYB transcription factor
+Zm01694	chr6	80378653	80379882	-	chlorophyll a/b binding protein
+Zm00193	chr6	80380438	80388543	+	photosystem II subunit
+Zm01239	chr6	80675029	80683428	+	nitrate transporter
+Zm00206	chr6	81065394	81069376	-	hypothetical protein
+Zm00143	chr6	81535046	81541670	-	MYB transcription factor
+Zm00874	chr6	81882466	81889058	-	photosystem II subunit
+Zm01777	chr6	82713122	82716324	-	ribosomal protein
+Zm00736	chr6	84762318	84765419	-	photosystem II subunit
+Zm01958	chr6	85447442	85452304	-	hypothetical protein
+Zm01532	chr6	85710063	85711297	+	MYB transcription factor
+Zm01984	chr6	86216287	86219314	-	hypothetical protein
+Zm01865	chr6	86569824	86572355	-	glutamine synthetase
+Zm00721	chr6	87491617	87499323	+	chlorophyll a/b binding protein
+Zm00014	chr6	87948534	87950357	+	photosystem II subunit
+Zm00256	chr6	88025489	88033312	+	MYB transcription factor
+Zm00640	chr6	88942933	88949795	-	hypothetical protein
+Zm01798	chr6	89346914	89355315	+	ribosomal protein
+Zm00929	chr6	90753424	90756047	+	aquaporin
+Zm00893	chr6	90764061	90765377	-	hypothetical protein
+Zm01626	chr6	92145763	92148272	-	hypothetical protein
+Zm01149	chr6	93352093	93358200	-	chlorophyll a/b binding protein
+Zm00695	chr6	94810396	94812707	-	MYB transcription factor
+Zm01448	chr6	96282430	96284608	-	glutamine synthetase
+Zm00500	chr6	99998414	100006132	+	chlorophyll a/b binding protein
+Zm01598	chr6	100145184	100148099	+	hypothetical protein
+Zm01923	chr6	101017949	101022478	-	hypothetical protein
+Zm01458	chr6	102523277	102532263	+	hypothetical protein
+Zm00419	chr6	102785904	102789491	+	hypothetical protein
+Zm00493	chr6	103937594	103941372	+	MYB transcription factor
+Zm00047	chr6	104274215	104278750	-	hypothetical protein
+Zm00894	chr6	105143007	105148829	+	hypothetical protein
+Zm01254	chr6	105859517	105867800	-	aquaporin
+Zm01062	chr6	105912046	105915766	+	nitrate transporter
+Zm00787	chr6	106427764	106434148	-	chlorophyll a/b binding protein
+Zm00821	chr6	107085619	107094035	-	hypothetical protein
+Zm00131	chr6	113295517	113303451	+	hypothetical protein
+Zm00376	chr6	113484905	113486699	+	hypothetical protein
+Zm01462	chr6	114236400	114238175	-	MYB transcription factor
+Zm00306	chr6	114767609	114774632	-	heat shock protein
+Zm00786	chr6	118189037	118193605	+	hypothetical protein
+Zm01744	chr6	119374609	119378950	-	heat shock protein
+Zm00737	chr6	121077535	121079973	+	hypothetical protein
+Zm00878	chr6	122656781	122663416	+	cell wall invertase
+Zm00773	chr6	127706708	127709728	+	MYB transcription factor
+Zm01631	chr6	128029790	128031851	-	nitrate transporter
+Zm01821	chr6	129976963	129982016	+	hypothetical protein
+Zm01660	chr6	130759348	130762437	-	cell wall invertase
+Zm01044	chr6	132975791	132977878	+	ribosomal protein
+Zm01497	chr6	133412922	133420502	-	hypothetical protein
+Zm01011	chr6	134677361	134681395	-	MYB transcription factor
+Zm01178	chr6	134890990	134895763	-	aquaporin
+Zm00267	chr6	134971756	134980414	-	aquaporin
+Zm01180	chr6	136762090	136771030	+	aquaporin
+Zm00731	chr6	141363563	141366960	+	hypothetical protein
+Zm00768	chr6	143346295	143349308	-	chlorophyll a/b binding protein
+Zm01273	chr6	144699761	144705210	-	ribosomal protein
+Zm01781	chr6	147781299	147784214	-	hypothetical protein
+Zm00908	chr6	147929275	147935992	+	heat shock protein
+Zm00849	chr6	148878245	148880444	+	chlorophyll a/b binding protein
+Zm00147	chr6	150733990	150737092	-	chlorophyll a/b binding protein
+Zm01974	chr6	150761967	150769507	-	ribosomal protein
+Zm00272	chr6	153201107	153205871	+	MYB transcription factor
+Zm00318	chr6	153499130	153505126	+	nitrate transporter
+Zm01247	chr6	156152836	156157379	+	nitrate transporter
+Zm00732	chr6	156347523	156350285	+	photosystem II subunit
+Zm00282	chr6	157755281	157764134	+	MYB transcription factor
+Zm01585	chr6	158680202	158687855	+	chlorophyll a/b binding protein
+Zm00092	chr6	161163667	161167731	+	hypothetical protein
+Zm01539	chr6	162111970	162114426	-	chlorophyll a/b binding protein
+Zm00250	chr6	164068797	164072280	+	chlorophyll a/b binding protein
+Zm01647	chr6	164386470	164392490	+	nitrate transporter
+Zm00681	chr6	165769712	165777854	+	heat shock protein
+Zm00450	chr6	165992602	165998775	+	heat shock protein
+Zm00715	chr6	166739788	166746678	-	chlorophyll a/b binding protein
+Zm00333	chr6	166874295	166879079	-	hypothetical protein
+Zm01768	chr6	166972057	166977385	-	ribosomal protein
+Zm01270	chr6	167196505	167199720	-	MYB transcription factor
+Zm01222	chr6	168294287	168296233	+	heat shock protein
+Zm01175	chr6	168984451	168985463	-	hypothetical protein
+Zm01235	chr6	169843824	169848109	-	chlorophyll a/b binding protein
+Zm01452	chr6	170165290	170167958	+	nitrate transporter
+Zm00858	chr6	173901025	173904668	-	chlorophyll a/b binding protein
+Zm01610	chr7	407679	415730	-	hypothetical protein
+Zm01650	chr7	572243	578570	+	nitrate transporter
+Zm00767	chr7	671920	673152	+	MYB transcription factor
+Zm00755	chr7	3772698	3773665	-	photosystem II subunit
+Zm00987	chr7	5569714	5574045	-	hypothetical protein
+Zm00241	chr7	8284163	8285244	+	chlorophyll a/b binding protein
+Zm01718	chr7	10283696	10287453	-	photosystem II subunit
+Zm01636	chr7	12630172	12639005	+	ribosomal protein
+Zm00155	chr7	14647129	14651261	-	hypothetical protein
+Zm00885	chr7	15907807	15912086	-	glutamine synthetase
+Zm00628	chr7	20100127	20105488	+	hypothetical protein
+Zm00275	chr7	22177145	22183459	-	photosystem II subunit
+Zm01919	chr7	22887532	22892216	+	MYB transcription factor
+Zm01393	chr7	24639187	24645400	-	hypothetical protein
+Zm01499	chr7	27279985	27286988	-	chlorophyll a/b binding protein
+Zm01230	chr7	27678024	27684380	-	hypothetical protein
+Zm01878	chr7	28731150	28736281	-	aquaporin
+Zm01351	chr7	30775439	30778571	-	ribosomal protein
+Zm01389	chr7	30909858	30910990	+	cell wall invertase
+Zm01765	chr7	31247892	31256169	+	hypothetical protein
+Zm01624	chr7	32050110	32051404	-	photosystem II subunit
+Zm01578	chr7	33930080	33934299	-	MYB transcription factor
+Zm01046	chr7	34278205	34286940	+	MYB transcription factor
+Zm00295	chr7	34768751	34769809	+	hypothetical protein
+Zm01390	chr7	37190504	37197248	-	photosystem II subunit
+Zm00673	chr7	38187478	38192763	+	hypothetical protein
+Zm01267	chr7	38373854	38376134	-	photosystem II subunit
+Zm00287	chr7	39540862	39545568	+	chlorophyll a/b binding protein
+Zm01121	chr7	41393025	41400270	-	hypothetical protein
+Zm00585	chr7	43903893	43908022	-	hypothetical protein
+Zm01033	chr7	44437675	44439325	+	hypothetical protein
+Zm01521	chr7	46498002	46503796	+	hypothetical protein
+Zm00562	chr7	47133676	47136667	-	glutamine synthetase
+Zm01936	chr7	47387945	47390586	-	hypothetical protein
+Zm01093	chr7	47620314	47621448	-	heat shock protein
+Zm01978	chr7	48456939	48462184	-	ribosomal protein
+Zm01322	chr7	48579788	48586750	+	cell wall invertase
+Zm00677	chr7	49098318	49105361	-	hypothetical protein
+Zm01090	chr7	51388709	51389969	+	ribosomal protein
+Zm00413	chr7	51755604	51758799	+	photosystem II subunit
+Zm01381	chr7	51858213	51866781	+	chlorophyll a/b binding protein
+Zm01722	chr7	54211528	54215515	-	MYB transcription factor
+Zm01555	chr7	55661261	55662116	+	asparagine synthetase
+Zm00794	chr7	55747995	55749387	-	asparagine synthetase
+Zm01698	chr7	56703250	56711164	-	hypothetical protein
+Zm00717	chr7	56718219	56719986	+	hypothetical protein
+Zm00844	chr7	58278978	58279975	+	hypothetical protein
+Zm01804	chr7	61451861	61459404	+	hypothetical protein
+Zm00738	chr7	61895037	61898476	+	ribosomal protein
+Zm00486	chr7	62629596	62636650	-	hypothetical protein
+Zm01017	chr7	63758531	63767502	+	heat shock protein
+Zm00716	chr7	63868214	63870428	-	MYB transcription factor
+Zm00602	chr7	63985589	63992441	-	nitrate transporter
+Zm01590	chr7	64241590	64242491	-	glutamine synthetase
+Zm01104	chr7	65968926	65974736	+	asparagine synthetase
+Zm00932	chr7	69671243	69675520	+	ribosomal protein
+Zm00753	chr7	72133500	72134492	-	ribosomal protein
+Zm00979	chr7	74960561	74962347	+	hypothetical protein
+Zm00152	chr7	75454403	75459881	-	hypothetical protein
+Zm00831	chr7	76535116	76536146	-	heat shock protein
+Zm00961	chr7	77529120	77533675	-	hypothetical protein
+Zm00069	chr7	77555727	77556986	+	ribosomal protein
+Zm01137	chr7	77743183	77751772	-	MYB transcription factor
+Zm01379	chr7	79233460	79241930	+	asparagine synthetase
+Zm01362	chr7	79960102	79968941	-	hypothetical protein
+Zm00760	chr7	81178631	81179564	-	MYB transcription factor
+Zm00978	chr7	81587015	81590739	+	cell wall invertase
+Zm00506	chr7	81616736	81621395	+	hypothetical protein
+Zm00706	chr7	82442083	82448617	+	photosystem II subunit
+Zm00089	chr7	84903890	84909548	+	glutamine synthetase
+Zm01540	chr7	84941790	84942850	+	hypothetical protein
+Zm00343	chr7	85067541	85074657	-	hypothetical protein
+Zm01980	chr7	85465133	85473745	-	ribosomal protein
+Zm00499	chr7	86119437	86125920	-	hypothetical protein
+Zm01513	chr7	87196245	87198918	+	glutamine synthetase
+Zm00744	chr7	88280628	88289627	+	hypothetical protein
+Zm01932	chr7	88920139	88928521	+	hypothetical protein
+Zm00436	chr7	88971572	88972456	-	ribosomal protein
+Zm01374	chr7	89093118	89100328	+	hypothetical protein
+Zm00813	chr7	89432583	89436086	+	ribosomal protein
+Zm00549	chr7	90601265	90605392	+	nitrate transporter
+Zm01591	chr7	91587061	91589249	+	chlorophyll a/b binding protein
+Zm01592	chr7	92153451	92158955	+	chlorophyll a/b binding protein
+Zm00463	chr7	92541284	92546138	+	nitrate transporter
+Zm00568	chr7	93036229	93045042	+	ribosomal protein
+Zm01053	chr7	93872493	93877619	+	chlorophyll a/b binding protein
+Zm00688	chr7	94341881	94343255	+	hypothetical protein
+Zm00754	chr7	94841455	94847472	+	hypothetical protein
+Zm00945	chr7	96227127	96232653	-	photosystem II subunit
+Zm01226	chr7	96509826	96511546	+	aquaporin
+Zm00417	chr7	96566179	96568097	-	hypothetical protein
+Zm00739	chr7	98664944	98673866	+	heat shock protein
+Zm00866	chr7	99842944	99843827	-	hypothetical protein
+Zm00510	chr7	99925867	99928205	-	MYB transcription factor
+Zm01922	chr7	99960909	99969278	+	heat shock protein
+Zm00903	chr7	100121528	100130229	+	heat shock protein
+Zm00447	chr7	102276002	102283496	+	ribosomal protein
+Zm00861	chr7	104767446	104772238	+	photosystem II subunit
+Zm01788	chr7	105881941	105885601	+	ribosomal protein
+Zm00119	chr7	106475781	106478794	+	MYB transcription factor
+Zm00675	chr7	108029588	108034704	-	MYB transcription factor
+Zm01565	chr7	108090680	108099043	+	hypothetical protein
+Zm00992	chr7	108714577	108719939	+	chlorophyll a/b binding protein
+Zm00982	chr7	108840162	108847798	-	hypothetical protein
+Zm01987	chr7	110416579	110421186	+	MYB transcription factor
+Zm00441	chr7	111069582	111072981	-	ribosomal protein
+Zm00303	chr7	112159365	112161572	-	photosystem II subunit
+Zm01615	chr7	112222827	112227597	-	ribosomal protein
+Zm01721	chr7	113483758	113487787	+	cell wall invertase
+Zm01135	chr7	113847799	113852299	+	heat shock protein
+Zm00818	chr7	114109027	114112993	+	MYB transcription factor
+Zm00094	chr7	114992716	114993815	-	ribosomal protein
+Zm00522	chr7	117070896	117074974	+	hypothetical protein
+Zm00937	chr7	118223905	118226436	-	hypothetical protein
+Zm00643	chr7	119261887	119264810	-	glutamine synthetase
+Zm00455	chr7	119892636	119900694	-	hypothetical protein
+Zm01100	chr7	121227252	121229702	+	hypothetical protein
+Zm01146	chr7	121988407	121996762	+	chlorophyll a/b binding protein
+Zm00350	chr7	122580312	122585942	-	chlorophyll a/b binding protein
+Zm01762	chr7	123373054	123377251	+	MYB transcription factor
+Zm01964	chr7	123753025	123755544	-	heat shock protein
+Zm00224	chr7	124056191	124060449	+	hypothetical protein
+Zm01010	chr7	125260614	125263983	-	hypothetical protein
+Zm01024	chr7	125479294	125484443	+	ribosomal protein
+Zm01464	chr7	126765418	126768575	-	nitrate transporter
+Zm00560	chr7	128961444	128966032	-	hypothetical protein
+Zm01794	chr7	128988756	128992803	+	ribosomal protein
+Zm01601	chr7	130507241	130515491	-	ribosomal protein
+Zm01630	chr7	130858761	130866820	-	hypothetical protein
+Zm01623	chr7	130973873	130976994	-	heat shock protein
+Zm00414	chr7	131359961	131366032	+	hypothetical protein
+Zm00426	chr7	131618572	131625594	+	hypothetical protein
+Zm00079	chr7	132109860	132112950	+	hypothetical protein
+Zm00647	chr7	134918862	134921301	-	ribosomal protein
+Zm00040	chr7	136551105	136553864	+	hypothetical protein
+Zm01808	chr7	137574999	137581203	+	chlorophyll a/b binding protein
+Zm00957	chr7	138274757	138277146	-	hypothetical protein
+Zm00367	chr7	139690142	139694660	+	ribosomal protein
+Zm00667	chr7	144109136	144117916	+	heat shock protein
+Zm00461	chr7	144474264	144480048	+	hypothetical protein
+Zm01336	chr7	145215348	145222876	+	hypothetical protein
+Zm01438	chr7	146737823	146741486	+	nitrate transporter
+Zm01501	chr7	147879260	147885295	-	chlorophyll a/b binding protein
+Zm00974	chr7	148914704	148916359	-	hypothetical protein
+Zm00383	chr7	149759481	149766368	-	ribosomal protein
+Zm00569	chr7	150027159	150029333	+	photosystem II subunit
+Zm00235	chr7	152914846	152922631	+	ribosomal protein
+Zm00074	chr7	152960405	152965201	-	photosystem II subunit
+Zm01426	chr7	153646620	153652394	-	photosystem II subunit
+Zm01898	chr7	153813742	153819658	+	hypothetical protein
+Zm01928	chr7	155681962	155684728	-	cell wall invertase
+Zm01472	chr7	155849008	155851478	+	hypothetical protein
+Zm00253	chr7	156618514	156623116	+	nitrate transporter
+Zm00507	chr7	156950637	156951986	-	ribosomal protein
+Zm01564	chr7	159119762	159124661	-	hypothetical protein
+Zm01861	chr7	159830004	159838666	-	hypothetical protein
+Zm00548	chr7	161023063	161030088	+	nitrate transporter
+Zm01475	chr7	161619401	161625929	+	heat shock protein
+Zm01309	chr7	162545312	162552736	+	heat shock protein
+Zm00421	chr7	163174555	163177466	+	hypothetical protein
+Zm01793	chr7	163765013	163770249	+	photosystem II subunit
+Zm01414	chr7	166301792	166303278	+	hypothetical protein
+Zm00121	chr7	167380743	167386782	-	photosystem II subunit
+Zm00442	chr7	169773158	169778946	-	hypothetical protein
+Zm00240	chr7	170240391	170248909	+	MYB transcription factor
+Zm01502	chr7	170683329	170687549	+	photosystem II subunit
+Zm01702	chr7	172812900	172821484	-	MYB transcription factor
+Zm00212	chr7	173752861	173754820	-	nitrate transporter
+Zm01914	chr7	173970887	173973397	+	ribosomal protein
+Zm00579	chr7	174374306	174379355	-	hypothetical protein
+Zm01670	chr7	174823568	174827688	-	ribosomal protein
+Zm01080	chr7	176380573	176387302	+	MYB transcription factor
+Zm01290	chr7	176705609	176707649	+	heat shock protein
+Zm01120	chr7	177021929	177024549	-	aquaporin
+Zm01043	chr7	177716491	177718273	+	MYB transcription factor
+Zm00076	chr8	509950	517041	+	glutamine synthetase
+Zm01382	chr8	668010	674157	-	heat shock protein
+Zm00308	chr8	2890127	2896678	+	hypothetical protein
+Zm01378	chr8	5106124	5114030	+	ribosomal protein
+Zm01665	chr8	5518820	5525018	+	hypothetical protein
+Zm01261	chr8	5579814	5588794	+	photosystem II subunit
+Zm01191	chr8	6081138	6084706	+	hypothetical protein
+Zm00138	chr8	12489407	12491802	+	aquaporin
+Zm01621	chr8	14640325	14648601	-	heat shock protein
+Zm00851	chr8	14970787	14974183	-	hypothetical protein
+Zm01820	chr8	15191455	15199537	+	heat shock protein
+Zm00743	chr8	15971516	15976223	+	hypothetical protein
+Zm01182	chr8	16725429	16726286	-	hypothetical protein
+Zm00588	chr8	17042657	17045134	+	photosystem II subunit
+Zm01642	chr8	17242274	17250065	+	heat shock protein
+Zm01811	chr8	17411853	17413579	+	hypothetical protein
+Zm01387	chr8	17826813	17834298	-	hypothetical protein
+Zm00564	chr8	18862530	18868136	-	hypothetical protein
+Zm00890	chr8	19073535	19080391	-	hypothetical protein
+Zm01512	chr8	19350405	19352730	+	hypothetical protein
+Zm01477	chr8	25541552	25548643	-	glutamine synthetase
+Zm01669	chr8	27574169	27582104	-	aquaporin
+Zm01666	chr8	27630021	27632842	+	glutamine synthetase
+Zm01706	chr8	28138837	28147580	+	photosystem II subunit
+Zm01068	chr8	31229388	31233376	+	ribosomal protein
+Zm01891	chr8	31542824	31548229	+	hypothetical protein
+Zm00956	chr8	32910370	32914241	+	photosystem II subunit
+Zm00963	chr8	36070754	36079235	-	chlorophyll a/b binding protein
+Zm01453	chr8	36099664	36103323	-	hypothetical protein
+Zm00113	chr8	36256830	36259157	+	asparagine synthetase
+Zm00207	chr8	36393735	36398003	+	photosystem II subunit
+Zm00989	chr8	36909178	36910855	-	MYB transcription factor
+Zm00469	chr8	38090758	38098405	+	aquaporin
+Zm01657	chr8	40785371	40790120	+	asparagine synthetase
+Zm01281	chr8	41526688	41528399	+	MYB transcription factor
+Zm01629	chr8	41625621	41633615	+	hypothetical protein
+Zm01931	chr8	42257182	42261047	-	ribosomal protein
+Zm00869	chr8	42396785	42403296	+	MYB transcription factor
+Zm00796	chr8	44074714	44079111	-	hypothetical protein
+Zm00037	chr8	46502281	46506217	+	aquaporin
+Zm01534	chr8	46611886	46617645	+	nitrate transporter
+Zm01284	chr8	47162864	47167895	+	hypothetical protein
+Zm00927	chr8	47409957	47412672	+	hypothetical protein
+Zm00713	chr8	47695621	47697137	-	hypothetical protein
+Zm01058	chr8	48105035	48108107	+	heat shock protein
+Zm01367	chr8	48500462	48509458	-	glutamine synthetase
+Zm01711	chr8	49589287	49596179	-	cell wall invertase
+Zm00661	chr8	49612239	49618437	-	hypothetical protein
+Zm01979	chr8	50276485	50282457	+	glutamine synthetase
+Zm00591	chr8	50681854	50686860	-	hypothetical protein
+Zm01993	chr8	51951488	51955892	+	cell wall invertase
+Zm00083	chr8	55785290	55792607	-	photosystem II subunit
+Zm00960	chr8	56379690	56387879	+	MYB transcription factor
+Zm00085	chr8	56401383	56409162	-	hypothetical protein
+Zm01013	chr8	60817009	60825076	+	nitrate transporter
+Zm01633	chr8	61400675	61403544	-	ribosomal protein
+Zm01625	chr8	61555580	61557301	-	photosystem II subunit
+Zm00393	chr8	63080910	63083590	-	hypothetical protein
+Zm01729	chr8	63461634	63464896	+	MYB transcription factor
+Zm00159	chr8	64365185	64371670	+	ribosomal protein
+Zm00563	chr8	64600464	64607658	+	cell wall invertase
+Zm00081	chr8	64808287	64814435	-	aquaporin
+Zm00051	chr8	64822468	64831440	+	hypothetical protein
+Zm01334	chr8	65955810	65958737	+	MYB transcription factor
+Zm00595	chr8	66004826	66013021	+	aquaporin
+Zm01870	chr8	67480402	67482176	+	hypothetical protein
+Zm01961	chr8	67667596	67673450	+	hypothetical protein
+Zm00221	chr8	68484856	68489417	-	asparagine synthetase
+Zm00855	chr8	68947080	68949613	-	heat shock protein
+Zm00028	chr8	73074149	73075791	-	MYB transcription factor
+Zm00834	chr8	74847510	74850993	+	chlorophyll a/b binding protein
+Zm01124	chr8	76375064	76378350	+	cell wall invertase
+Zm00066	chr8	79309301	79312181	+	ribosomal protein
+Zm01736	chr8	80071318	80074759	-	MYB transcription factor
+Zm00446	chr8	80568187	80574516	+	cell wall invertase
+Zm01684	chr8	80812644	80814371	+	hypothetical protein
+Zm01465	chr8	81116093	81123400	-	chlorophyll a/b binding protein
+Zm00774	chr8	81913630	81921214	-	photosystem II subunit
+Zm01237	chr8	83750450	83758892	+	ribosomal protein
+Zm00097	chr8	86143013	86150808	-	photosystem II subunit
+Zm01935	chr8	89287192	89288254	-	cell wall invertase
+Zm00799	chr8	89468263	89473103	-	hypothetical protein
+Zm00539	chr8	90816815	90819944	+	hypothetical protein
+Zm01457	chr8	92773361	92777201	-	hypothetical protein
+Zm00703	chr8	94050681	94054462	-	cell wall invertase
+Zm01286	chr8	94218188	94221095	+	photosystem II subunit
+Zm01900	chr8	94550025	94557394	+	hypothetical protein
+Zm01588	chr8	94744520	94745760	-	ribosomal protein
+Zm00975	chr8	95709960	95715322	-	aquaporin
+Zm00004	chr8	98108135	98113834	+	nitrate transporter
+Zm00009	chr8	98657385	98666286	+	hypothetical protein
+Zm01055	chr8	98691294	98695649	+	ribosomal protein
+Zm01889	chr8	98944552	98953117	+	ribosomal protein
+Zm01855	chr8	99716597	99725180	+	aquaporin
+Zm00838	chr8	99871926	99876239	+	hypothetical protein
+Zm00361	chr8	101542048	101549259	-	ribosomal protein
+Zm01293	chr8	101604207	101610109	+	hypothetical protein
+Zm01437	chr8	101662631	101664771	+	hypothetical protein
+Zm01635	chr8	102023884	102027422	+	heat shock protein
+Zm00685	chr8	102757280	102758392	-	photosystem II subunit
+Zm01483	chr8	107151927	107159655	-	glutamine synthetase
+Zm01839	chr8	107999548	108004832	+	photosystem II subunit
+Zm01133	chr8	109155386	109156224	+	chlorophyll a/b binding protein
+Zm01216	chr8	110645559	110648690	+	cell wall invertase
+Zm01380	chr8	111686885	111691250	+	glutamine synthetase
+Zm00088	chr8	112341929	112345252	-	chlorophyll a/b binding protein
+Zm01893	chr8	112455754	112460771	-	hypothetical protein
+Zm00659	chr8	114222047	114223115	+	hypothetical protein
+Zm00612	chr8	114317111	114318626	-	MYB transcription factor
+Zm01807	chr8	115410454	115416714	-	hypothetical protein
+Zm00144	chr8	118353101	118355754	+	aquaporin
+Zm00826	chr8	119579813	119583423	+	ribosomal protein
+Zm00371	chr8	119808608	119816818	+	hypothetical protein
+Zm01165	chr8	120526810	120533898	-	ribosomal protein
+Zm00456	chr8	124652328	124656882	+	hypothetical protein
+Zm00686	chr8	126648670	126656216	+	MYB transcription factor
+Zm01778	chr8	127409717	127417279	-	hypothetical protein
+Zm01001	chr8	129183448	129192304	+	cell wall invertase
+Zm01118	chr8	131881478	131886475	+	cell wall invertase
+Zm00952	chr8	132250223	132252806	+	chlorophyll a/b binding protein
+Zm00459	chr8	132389725	132397082	+	hypothetical protein
+Zm01110	chr8	138153388	138154670	-	ribosomal protein
+Zm00134	chr8	139427805	139429505	-	aquaporin
+Zm01617	chr8	139846576	139854636	-	heat shock protein
+Zm00041	chr8	140632669	140636839	-	MYB transcription factor
+Zm01837	chr8	140808529	140813656	-	photosystem II subunit
+Zm01342	chr8	141248369	141256751	-	nitrate transporter
+Zm00533	chr8	141303414	141306297	-	MYB transcription factor
+Zm00336	chr8	141895778	141903999	-	chlorophyll a/b binding protein
+Zm01299	chr8	142077470	142085635	-	hypothetical protein
+Zm00910	chr8	143210949	143213719	+	ribosomal protein
+Zm00454	chr8	143277580	143285016	-	nitrate transporter
+Zm00090	chr8	143950951	143955499	-	hypothetical protein
+Zm00338	chr8	146171010	146174534	-	ribosomal protein
+Zm00800	chr8	146631721	146638723	+	ribosomal protein
+Zm00650	chr8	146654294	146659975	+	photosystem II subunit
+Zm00365	chr8	146932763	146939116	-	chlorophyll a/b binding protein
+Zm00702	chr8	148352426	148360548	-	aquaporin
+Zm00332	chr8	148610886	148612147	-	hypothetical protein
+Zm01327	chr8	150315878	150322593	-	MYB transcription factor
+Zm00775	chr8	151816803	151824490	+	chlorophyll a/b binding protein
+Zm01829	chr8	151883410	151890354	+	MYB transcription factor
+Zm00809	chr8	152243939	152249662	-	heat shock protein
+Zm00922	chr8	152785802	152790884	-	hypothetical protein
+Zm00357	chr8	152925932	152930080	-	MYB transcription factor
+Zm00096	chr8	154578531	154581643	+	hypothetical protein
+Zm01099	chr8	155410037	155417236	+	photosystem II subunit
+Zm00328	chr8	156775370	156777582	+	aquaporin
+Zm00191	chr8	157705845	157713638	+	hypothetical protein
+Zm00823	chr8	157921198	157928093	-	cell wall invertase
+Zm01315	chr8	158147178	158149848	+	hypothetical protein
+Zm01234	chr8	158590386	158596082	-	chlorophyll a/b binding protein
+Zm00251	chr8	158736591	158741684	+	hypothetical protein
+Zm00886	chr8	159337675	159343914	+	cell wall invertase
+Zm01181	chr8	160985810	160986875	-	photosystem II subunit
+Zm01106	chr8	162744948	162748460	+	aquaporin
+Zm01815	chr8	166042092	166048629	-	photosystem II subunit
+Zm01231	chr8	167392606	167396328	-	glutamine synthetase
+Zm00416	chr8	168835682	168841743	+	photosystem II subunit
+Zm00302	chr8	171410465	171415664	+	hypothetical protein
+Zm00178	chr8	171525495	171529907	+	hypothetical protein
+Zm01023	chr8	171809769	171813287	-	hypothetical protein
+Zm00547	chr8	172283256	172289980	+	hypothetical protein
+Zm01077	chr8	174833302	174836103	-	MYB transcription factor
+Zm01081	chr8	175811885	175815642	+	ribosomal protein
+Zm00674	chr8	176158842	176167217	+	MYB transcription factor
+Zm01954	chr8	177614948	177622505	-	nitrate transporter
+Zm00719	chr9	126446	129717	-	chlorophyll a/b binding protein
+Zm01224	chr9	787799	790136	+	heat shock protein
+Zm01518	chr9	1209786	1216108	+	heat shock protein
+Zm00283	chr9	2053584	2061038	+	MYB transcription factor
+Zm01318	chr9	2424017	2424954	-	photosystem II subunit
+Zm01519	chr9	5033920	5042701	+	ribosomal protein
+Zm01063	chr9	7621448	7622915	-	glutamine synthetase
+Zm00202	chr9	7624276	7626905	-	cell wall invertase
+Zm00118	chr9	8543907	8552886	+	photosystem II subunit
+Zm01217	chr9	11936584	11941705	-	hypothetical protein
+Zm00478	chr9	12926864	12932305	+	MYB transcription factor
+Zm01644	chr9	13338284	13346597	-	hypothetical protein
+Zm01566	chr9	14495381	14501553	+	chlorophyll a/b binding protein
+Zm00599	chr9	16153302	16161608	+	MYB transcription factor
+Zm00266	chr9	16916548	16921214	+	photosystem II subunit
+Zm01830	chr9	18633783	18638441	+	ribosomal protein
+Zm00284	chr9	18669270	18674448	+	photosystem II subunit
+Zm01209	chr9	19086663	19088758	-	ribosomal protein
+Zm00008	chr9	21052237	21060811	-	photosystem II subunit
+Zm01826	chr9	21228368	21237111	-	heat shock protein
+Zm01946	chr9	21935723	21937336	+	photosystem II subunit
+Zm00359	chr9	22681932	22683702	+	hypothetical protein
+Zm01059	chr9	23036059	23038826	+	chlorophyll a/b binding protein
+Zm01130	chr9	24667179	24670996	-	cell wall invertase
+Zm01117	chr9	25625885	25633821	+	aquaporin
+Zm01152	chr9	26721579	26722920	+	nitrate transporter
+Zm00504	chr9	26846991	26848848	-	cell wall invertase
+Zm00145	chr9	29525702	29533423	-	MYB transcription factor
+Zm01701	chr9	29752078	29758773	-	heat shock protein
+Zm00883	chr9	30358963	30360250	-	heat shock protein
+Zm01491	chr9	31068831	31075702	+	hypothetical protein
+Zm00676	chr9	31565162	31573510	+	nitrate transporter
+Zm00594	chr9	32963134	32965105	+	photosystem II subunit
+Zm01597	chr9	34203645	34204895	+	ribosomal protein
+Zm01200	chr9	36152576	36155658	+	aquaporin
+Zm00060	chr9	36942827	36946282	-	asparagine synthetase
+Zm00931	chr9	37857537	37861035	+	aquaporin
+Zm01154	chr9	40625147	40626382	-	MYB transcription factor
+Zm01944	chr9	44017752	44026483	-	MYB transcription factor
+Zm01419	chr9	44427470	44432679	+	photosystem II subunit
+Zm00868	chr9	44836327	44845107	+	ribosomal protein
+Zm01704	chr9	45234881	45238014	-	chlorophyll a/b binding protein
+Zm00658	chr9	47006332	47014007	-	cell wall invertase
+Zm01049	chr9	47923596	47928432	-	ribosomal protein
+Zm00700	chr9	48617857	48622312	+	heat shock protein
+Zm00408	chr9	49429689	49437798	-	cell wall invertase
+Zm00950	chr9	50210010	50211906	-	MYB transcription factor
+Zm01232	chr9	50507202	50509070	-	nitrate transporter
+Zm00852	chr9	50523773	50527978	+	hypothetical protein
+Zm00063	chr9	51427716	51432413	-	hypothetical protein
+Zm00291	chr9	51772049	51773982	-	MYB transcription factor
+Zm00023	chr9	51892867	51901213	+	ribosomal protein
+Zm00132	chr9	52758567	52766943	-	ribosomal protein
+Zm01445	chr9	53305907	53310275	-	cell wall invertase
+Zm00840	chr9	56163535	56169172	+	cell wall invertase
+Zm00928	chr9	56221135	56226184	+	cell wall invertase
+Zm01140	chr9	58518617	58523477	+	hypothetical protein
+Zm00876	chr9	59040170	59045699	-	hypothetical protein
+Zm00194	chr9	59294354	59303298	+	hypothetical protein
+Zm01345	chr9	59493158	59499094	-	ribosomal protein
+Zm00757	chr9	59704674	59710009	-	hypothetical protein
+Zm00187	chr9	60569765	60576070	+	chlorophyll a/b binding protein
+Zm01238	chr9	60917621	60924344	+	MYB transcription factor
+Zm01587	chr9	61881899	61886086	-	glutamine synthetase
+Zm00871	chr9	62324850	62326580	-	MYB transcription factor
+Zm00139	chr9	63806262	63811554	-	hypothetical protein
+Zm00329	chr9	64108702	64117093	+	hypothetical protein
+Zm01428	chr9	64675670	64680904	+	aquaporin
+Zm01537	chr9	66735171	66738801	+	heat shock protein
+Zm00428	chr9	68507352	68508527	-	ribosomal protein
+Zm01930	chr9	68613927	68622843	-	hypothetical protein
+Zm00531	chr9	68707038	68715904	-	glutamine synthetase
+Zm00231	chr9	69357784	69360265	-	hypothetical protein
+Zm00362	chr9	69735806	69742848	-	ribosomal protein
+Zm00180	chr9	69824125	69832892	+	aquaporin
+Zm01903	chr9	71790783	71794293	+	photosystem II subunit
+Zm00188	chr9	72342795	72346365	-	MYB transcription factor
+Zm00887	chr9	73620991	73621968	+	heat shock protein
+Zm00354	chr9	74222668	74227481	-	ribosomal protein
+Zm00789	chr9	74769694	74776130	+	asparagine synthetase
+Zm01338	chr9	76304419	76311624	-	ribosomal protein
+Zm00472	chr9	76887643	76891839	+	hypothetical protein
+Zm01544	chr9	79621934	79625610	-	hypothetical protein
+Zm00179	chr9	79785563	79792029	+	hypothetical protein
+Zm00701	chr9	79854219	79862619	+	aquaporin
+Zm00183	chr9	79931937	79933291	-	photosystem II subunit
+Zm01493	chr9	80186211	80190047	-	nitrate transporter
+Zm01645	chr9	80689031	80694853	+	photosystem II subunit
+Zm00064	chr9	82153928	82162138	+	MYB transcription factor
+Zm00808	chr9	85532786	85535132	-	cell wall invertase
+Zm01012	chr9	87451138	87457121	+	hypothetical protein
+Zm00846	chr9	88379090	88384869	+	hypothetical protein
+Zm00981	chr9	88877704	88882683	-	MYB transcription factor
+Zm00862	chr9	91189788	91198617	-	MYB transcription factor
+Zm00967	chr9	91611404	91616055	+	ribosomal protein
+Zm00321	chr9	92085949	92090766	+	chlorophyll a/b binding protein
+Zm01227	chr9	92199285	92203736	-	hypothetical protein
+Zm01031	chr9	95754909	95756912	-	ribosomal protein
+Zm00276	chr9	98791267	98793848	-	ribosomal protein
+Zm01728	chr9	100107635	100110584	-	heat shock protein
+Zm01816	chr9	101070673	101077042	-	hypothetical protein
+Zm01467	chr9	101374361	101382556	-	hypothetical protein
+Zm01409	chr9	101462894	101463875	+	hypothetical protein
+Zm01605	chr9	102021647	102023051	+	chlorophyll a/b binding protein
+Zm00400	chr9	102672165	102679841	+	cell wall invertase
+Zm01343	chr9	102978206	102985911	+	aquaporin
+Zm00111	chr9	102992189	102994135	-	hypothetical protein
+Zm01965	chr9	106670122	106672701	+	chlorophyll a/b binding protein
+Zm01572	chr9	107651092	107656238	+	hypothetical protein
+Zm00352	chr9	111400257	111408355	+	nitrate transporter
+Zm01364	chr9	111633745	111637939	+	chlorophyll a/b binding protein
+Zm00163	chr9	114165389	114172150	-	aquaporin
+Zm01533	chr9	114256584	114260824	-	glutamine synthetase
+Zm00198	chr9	114858601	114862694	-	hypothetical protein
+Zm01199	chr9	116686430	116691095	+	MYB transcription factor
+Zm01776	chr9	117024336	117031029	-	MYB transcription factor
+Zm00532	chr9	119980944	119986784	-	photosystem II subunit
+Zm00049	chr9	120850731	120857495	-	hypothetical protein
+Zm00392	chr9	122948190	122956062	+	photosystem II subunit
+Zm01970	chr9	123993048	123996284	-	hypothetical protein
+Zm01243	chr9	124976638	124980352	+	heat shock protein
+Zm00128	chr9	127034450	127041897	+	MYB transcription factor
+Zm00034	chr9	128237181	128239524	+	cell wall invertase
+Zm01668	chr9	128671544	128679310	+	heat shock protein
+Zm00999	chr9	130225672	130232318	-	hypothetical protein
+Zm01803	chr9	134111709	134114327	+	hypothetical protein
+Zm00570	chr9	135452178	135455391	+	cell wall invertase
+Zm00087	chr9	138088560	138096519	+	cell wall invertase
+Zm00457	chr9	138473875	138477339	+	chlorophyll a/b binding protein
+Zm01365	chr9	140044736	140045686	-	hypothetical protein
+Zm00411	chr9	142078102	142080514	-	cell wall invertase
+Zm00694	chr9	142326460	142328991	-	photosystem II subunit
+Zm00850	chr9	143819152	143820251	+	chlorophyll a/b binding protein
+Zm00293	chr9	143960918	143964002	-	ribosomal protein
+Zm01648	chr9	144049891	144058457	-	photosystem II subunit
+Zm00630	chr9	146308424	146311319	-	MYB transcription factor
+Zm00209	chr9	147729229	147735348	-	MYB transcription factor
+Zm00420	chr9	147900007	147902568	-	hypothetical protein
+Zm00830	chr9	148077286	148082801	-	cell wall invertase
+Zm01940	chr9	148717055	148720876	+	cell wall invertase
+Zm00427	chr9	150571824	150580199	-	chlorophyll a/b binding protein
+Zm01026	chr9	152043182	152045891	+	asparagine synthetase
+Zm01220	chr9	152409014	152410375	+	chlorophyll a/b binding protein
+Zm00490	chr9	153061045	153068543	-	chlorophyll a/b binding protein
+Zm00141	chr9	153250738	153253584	+	ribosomal protein
+Zm00368	chr9	154523748	154526897	+	aquaporin
+Zm00884	chr9	155125674	155128976	-	hypothetical protein
+Zm01641	chr9	155298542	155306646	-	hypothetical protein
+Zm00601	chr9	155459575	155463104	-	ribosomal protein
+Zm00698	chr9	156121182	156125036	-	hypothetical protein
+Zm01901	chr9	156356435	156363410	+	chlorophyll a/b binding protein
+Zm01432	chr9	157090514	157094016	-	ribosomal protein
+Zm00199	chr9	157107380	157109935	+	cell wall invertase
+Zm00911	chr9	158091069	158093118	+	chlorophyll a/b binding protein
+Zm01988	chr10	3349308	3357013	+	chlorophyll a/b binding protein
+Zm01693	chr10	3618618	3624521	-	heat shock protein
+Zm00638	chr10	4796529	4799323	-	hypothetical protein
+Zm01556	chr10	5088524	5093025	+	MYB transcription factor
+Zm00518	chr10	7983310	7985367	-	aquaporin
+Zm01879	chr10	8736214	8741351	+	hypothetical protein
+Zm00002	chr10	8872828	8876380	+	hypothetical protein
+Zm00543	chr10	10809905	10818131	+	ribosomal protein
+Zm01723	chr10	10922411	10928606	+	nitrate transporter
+Zm00120	chr10	11467485	11475252	-	glutamine synthetase
+Zm00185	chr10	13178760	13183581	+	MYB transcription factor
+Zm00906	chr10	15896393	15903280	-	cell wall invertase
+Zm01531	chr10	15982452	15990521	+	aquaporin
+Zm01883	chr10	17119445	17126989	-	ribosomal protein
+Zm00692	chr10	17841502	17849344	-	glutamine synthetase
+Zm00969	chr10	18033286	18036516	+	photosystem II subunit
+Zm01853	chr10	19232461	19233330	+	heat shock protein
+Zm01159	chr10	19387808	19391371	+	hypothetical protein
+Zm00349	chr10	20975104	20981092	-	MYB transcription factor
+Zm01029	chr10	21211945	21215283	-	aquaporin
+Zm01770	chr10	25335587	25338842	+	photosystem II subunit
+Zm00644	chr10	26854497	26858000	-	hypothetical protein
+Zm01148	chr10	26879431	26882803	+	cell wall invertase
+Zm00149	chr10	27445218	27451466	+	aquaporin
+Zm00649	chr10	27878200	27887065	-	nitrate transporter
+Zm00924	chr10	28633645	28638955	+	ribosomal protein
+Zm01138	chr10	30315912	30319200	-	aquaporin
+Zm00752	chr10	31465961	31469004	-	aquaporin
+Zm00234	chr10	32156596	32160742	+	asparagine synthetase
+Zm00395	chr10	34848722	34854224	+	chlorophyll a/b binding protein
+Zm01956	chr10	35402342	35409142	-	cell wall invertase
+Zm01129	chr10	36008231	36010643	+	photosystem II subunit
+Zm00222	chr10	37861345	37865221	-	chlorophyll a/b binding protein
+Zm00502	chr10	39675550	39682508	+	hypothetical protein
+Zm00091	chr10	43366025	43371089	-	heat shock protein
+Zm01139	chr10	45007099	45010072	+	hypothetical protein
+Zm00586	chr10	46867465	46869060	-	hypothetical protein
+Zm00247	chr10	48418796	48426867	+	aquaporin
+Zm01377	chr10	51142207	51146032	-	chlorophyll a/b binding protein
+Zm01070	chr10	51208678	51210217	-	glutamine synthetase
+Zm01911	chr10	51858308	51865623	+	ribosomal protein
+Zm01481	chr10	53801170	53807531	+	aquaporin
+Zm00991	chr10	54546224	54554946	+	hypothetical protein
+Zm01885	chr10	54943533	54945573	+	hypothetical protein
+Zm00613	chr10	57748821	57750310	+	hypothetical protein
+Zm01014	chr10	58594442	58597122	+	hypothetical protein
+Zm01028	chr10	58963032	58970491	-	aquaporin
+Zm00048	chr10	60274661	60275862	+	aquaporin
+Zm01056	chr10	60952142	60957221	-	ribosomal protein
+Zm01663	chr10	61655162	61659106	-	hypothetical protein
+Zm01396	chr10	62122551	62124238	+	MYB transcription factor
+Zm01022	chr10	64271156	64273976	-	glutamine synthetase
+Zm01654	chr10	64560288	64567157	+	asparagine synthetase
+Zm01236	chr10	66041286	66044106	-	hypothetical protein
+Zm01514	chr10	67621852	67625936	-	ribosomal protein
+Zm01574	chr10	68018763	68027076	-	photosystem II subunit
+Zm00444	chr10	68025864	68027333	-	MYB transcription factor
+Zm00913	chr10	68906249	68913955	+	heat shock protein
+Zm00464	chr10	70523318	70527310	+	heat shock protein
+Zm01213	chr10	72077164	72079593	-	chlorophyll a/b binding protein
+Zm01219	chr10	72108609	72110871	-	photosystem II subunit
+Zm01348	chr10	72382459	72386158	+	aquaporin
+Zm01187	chr10	74080253	74084445	+	photosystem II subunit
+Zm00892	chr10	74374921	74383146	+	MYB transcription factor
+Zm01771	chr10	74888810	74892054	-	aquaporin
+Zm01526	chr10	77318654	77324760	-	photosystem II subunit
+Zm00712	chr10	77525051	77533994	+	hypothetical protein
+Zm00080	chr10	79306360	79307735	+	hypothetical protein
+Zm00571	chr10	79601944	79608335	-	asparagine synthetase
+Zm00856	chr10	81497574	81503518	-	hypothetical protein
+Zm01691	chr10	82033389	82041597	+	glutamine synthetase
+Zm00122	chr10	84159482	84164807	-	MYB transcription factor
+Zm00340	chr10	85357789	85366321	+	hypothetical protein
+Zm00052	chr10	86175110	86182371	+	hypothetical protein
+Zm01205	chr10	86568158	86574877	+	hypothetical protein
+Zm00176	chr10	87354957	87358240	-	hypothetical protein
+Zm00938	chr10	89171789	89175167	-	ribosomal protein
+Zm00261	chr10	90581954	90586023	-	chlorophyll a/b binding protein
+Zm01347	chr10	93430777	93439724	-	hypothetical protein
+Zm01887	chr10	93555939	93558974	-	hypothetical protein
+Zm00033	chr10	93991967	93994052	+	ribosomal protein
+Zm01854	chr10	95223936	95231573	-	hypothetical protein
+Zm01335	chr10	96738495	96745247	-	heat shock protein
+Zm01609	chr10	97059103	97064542	+	ribosomal protein
+Zm00162	chr10	97194253	97195569	+	hypothetical protein
+Zm01092	chr10	97734815	97741918	+	hypothetical protein
+Zm00289	chr10	99621609	99623816	-	cell wall invertase
+Zm01113	chr10	99858913	99867466	-	hypothetical protein
+Zm01354	chr10	106207328	106210161	-	heat shock protein
+Zm00576	chr10	106713365	106719655	+	hypothetical protein
+Zm01941	chr10	110787098	110790825	-	hypothetical protein
+Zm01071	chr10	116153924	116161661	-	heat shock protein
+Zm00325	chr10	118712315	118715086	-	hypothetical protein
+Zm01848	chr10	121318383	121326911	+	hypothetical protein
+Zm00728	chr10	121631492	121635088	+	MYB transcription factor
+Zm01616	chr10	123819286	123827489	-	cell wall invertase
+Zm01316	chr10	125622733	125630366	+	hypothetical protein
+Zm00142	chr10	125738139	125746217	-	chlorophyll a/b binding protein
+Zm01050	chr10	126536078	126537296	-	MYB transcription factor
+Zm01813	chr10	129744471	129748345	-	cell wall invertase
+Zm01563	chr10	129841284	129849033	+	photosystem II subunit
+Zm01805	chr10	130553666	130562326	+	ribosomal protein
+Zm00699	chr10	131133325	131137863	+	nitrate transporter
+Zm00554	chr10	132063299	132072116	-	nitrate transporter
+Zm00651	chr10	132065788	132069298	-	photosystem II subunit
+Zm01193	chr10	136541356	136549739	+	hypothetical protein
+Zm01003	chr10	137055770	137063419	-	chlorophyll a/b binding protein
+Zm00930	chr10	138661154	138663127	-	photosystem II subunit
+Zm01064	chr10	139780149	139783552	-	heat shock protein
+Zm01966	chr10	141130695	141135835	+	MYB transcription factor
+Zm01421	chr10	141318963	141324147	+	chlorophyll a/b binding protein
+Zm00264	chr10	143565568	143570138	+	heat shock protein
+Zm00130	chr10	143807984	143808932	-	ribosomal protein
+Zm00990	chr10	144113421	144115658	+	nitrate transporter
+Zm01995	chr10	144557721	144564452	-	photosystem II subunit
+Zm00331	chr10	144687381	144692746	+	MYB transcription factor
+Zm01510	chr10	148594688	148598355	-	glutamine synthetase
+Zm00711	chr10	148743129	148746242	-	ribosomal protein
